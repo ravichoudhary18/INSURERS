@@ -1,1 +1,2 @@
-# Project-Base-Django-Reactjs
+# Run Project
+<code>docker-compose up<code>
