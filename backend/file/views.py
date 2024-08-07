@@ -24,5 +24,6 @@ class FileView(APIView):
             )
             read_file = ReadingExcelFile(file_data.get('file_path', None))
             df = read_file.extract_file_info()
+            df_combined = read_file.cleaning_file(df)
             return Response(file_data, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
