@@ -1,2 +1,3 @@
 # Run Project
-<code>docker-compose up<code>
+## Linux
+<code>sudo docker-compose up<code>
