@@ -1,0 +1,1910 @@
+INFO 2023-09-17 15:48:44,943 autoreload 7 140322893866816 Watching for file changes with StatReloader
+INFO 2023-09-17 15:49:52,280 autoreload 7 139856563193664 Watching for file changes with StatReloader
+INFO 2023-09-17 15:50:23,806 autoreload 7 139771839891264 Watching for file changes with StatReloader
+INFO 2023-09-17 15:56:06,118 autoreload 7 139771839891264 /backend/Project/settings.py changed, reloading.
+INFO 2023-09-17 15:56:06,887 autoreload 23 140670540515136 Watching for file changes with StatReloader
+INFO 2023-09-17 15:56:47,580 autoreload 23 140670540515136 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-17 15:56:48,143 autoreload 25 140260112947008 Watching for file changes with StatReloader
+INFO 2023-09-17 16:06:23,384 autoreload 25 140260112947008 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:06:23,895 autoreload 27 139930466060096 Watching for file changes with StatReloader
+INFO 2023-09-17 16:07:27,180 autoreload 27 139930466060096 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:07:27,695 autoreload 29 140117504292672 Watching for file changes with StatReloader
+INFO 2023-09-17 16:07:30,851 autoreload 29 140117504292672 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:07:31,356 autoreload 31 140270027372352 Watching for file changes with StatReloader
+INFO 2023-09-17 16:08:44,628 autoreload 31 140270027372352 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:08:45,173 autoreload 33 139666250086208 Watching for file changes with StatReloader
+INFO 2023-09-17 16:10:58,760 autoreload 33 139666250086208 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:10:59,303 autoreload 35 140486892750656 Watching for file changes with StatReloader
+INFO 2023-09-17 16:11:05,491 autoreload 35 140486892750656 /backend/authentication/validators.py changed, reloading.
+INFO 2023-09-17 16:11:06,004 autoreload 37 140134850463552 Watching for file changes with StatReloader
+INFO 2023-09-17 16:12:37,977 autoreload 37 140134850463552 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:12:38,503 autoreload 39 140472897779520 Watching for file changes with StatReloader
+INFO 2023-09-17 16:12:48,756 autoreload 39 140472897779520 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:12:49,297 autoreload 41 140413142300480 Watching for file changes with StatReloader
+INFO 2023-09-17 16:13:03,600 autoreload 41 140413142300480 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:13:04,175 autoreload 43 140220213532480 Watching for file changes with StatReloader
+INFO 2023-09-17 16:13:19,527 autoreload 43 140220213532480 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:13:20,045 autoreload 45 139846334912320 Watching for file changes with StatReloader
+INFO 2023-09-17 16:14:08,030 autoreload 45 139846334912320 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:14:08,588 autoreload 47 140667812022080 Watching for file changes with StatReloader
+INFO 2023-09-17 16:14:52,014 autoreload 47 140667812022080 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:14:52,543 autoreload 49 139665820047168 Watching for file changes with StatReloader
+INFO 2023-09-17 16:15:42,532 autoreload 49 139665820047168 /backend/authentication/manager.py changed, reloading.
+INFO 2023-09-17 16:15:43,075 autoreload 51 140529942386496 Watching for file changes with StatReloader
+INFO 2023-09-17 16:16:16,719 autoreload 51 140529942386496 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:16:17,282 autoreload 53 140028273416000 Watching for file changes with StatReloader
+INFO 2023-09-17 16:17:26,475 autoreload 53 140028273416000 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:17:27,042 autoreload 55 139933139183424 Watching for file changes with StatReloader
+INFO 2023-09-17 16:17:53,709 autoreload 55 139933139183424 /backend/Project/settings.py changed, reloading.
+INFO 2023-09-17 16:17:54,244 autoreload 57 139649018849088 Watching for file changes with StatReloader
+INFO 2023-09-17 16:18:18,701 autoreload 57 139649018849088 /backend/Project/settings.py changed, reloading.
+INFO 2023-09-17 16:18:19,249 autoreload 72 140386119108416 Watching for file changes with StatReloader
+INFO 2023-09-17 16:19:24,401 autoreload 72 140386119108416 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:19:24,931 autoreload 77 139830543292224 Watching for file changes with StatReloader
+INFO 2023-09-17 16:19:58,467 autoreload 77 139830543292224 /backend/authentication/migrations/0001_initial.py changed, reloading.
+INFO 2023-09-17 16:19:59,067 autoreload 81 140108571498304 Watching for file changes with StatReloader
+INFO 2023-09-17 16:21:30,649 autoreload 81 140108571498304 /backend/authentication/migrations/0001_initial.py changed, reloading.
+INFO 2023-09-17 16:21:31,194 autoreload 90 140524987963200 Watching for file changes with StatReloader
+INFO 2023-09-17 16:21:43,460 autoreload 90 140524987963200 /backend/authentication/migrations/0001_initial.py changed, reloading.
+INFO 2023-09-17 16:21:44,063 autoreload 93 140106097596224 Watching for file changes with StatReloader
+INFO 2023-09-17 16:22:28,848 autoreload 93 140106097596224 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:22:29,414 autoreload 95 140014541674304 Watching for file changes with StatReloader
+INFO 2023-09-17 16:25:48,397 autoreload 95 140014541674304 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:25:49,009 autoreload 97 140159248541504 Watching for file changes with StatReloader
+INFO 2023-09-17 16:27:17,218 autoreload 97 140159248541504 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:27:17,852 autoreload 99 140403741308736 Watching for file changes with StatReloader
+INFO 2023-09-17 16:31:47,339 autoreload 99 140403741308736 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:31:47,911 autoreload 103 140412200318784 Watching for file changes with StatReloader
+INFO 2023-09-17 16:32:40,697 autoreload 103 140412200318784 /backend/authentication/models.py changed, reloading.
+INFO 2023-09-17 16:32:41,360 autoreload 105 140421758248768 Watching for file changes with StatReloader
+INFO 2023-09-17 16:41:21,799 autoreload 105 140421758248768 /backend/authentication/manager.py changed, reloading.
+INFO 2023-09-17 16:41:22,353 autoreload 107 139650591643456 Watching for file changes with StatReloader
+INFO 2023-09-17 16:44:34,106 autoreload 107 139650591643456 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-17 16:44:34,657 autoreload 109 139688753727296 Watching for file changes with StatReloader
+INFO 2023-09-19 01:14:43,486 autoreload 7 140364642166592 Watching for file changes with StatReloader
+INFO 2023-09-24 11:40:58,554 autoreload 7 140659462108992 Watching for file changes with StatReloader
+INFO 2023-09-24 11:46:15,558 autoreload 7 140700080744256 Watching for file changes with StatReloader
+INFO 2023-09-24 11:47:04,787 autoreload 7 139989630306112 Watching for file changes with StatReloader
+INFO 2023-09-24 12:00:55,218 autoreload 7 140114178246464 Watching for file changes with StatReloader
+ERROR 2023-09-24 12:01:12,315 log 7 140114042812160 Internal Server Error: /api/authentication/login/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/authentication/views.py", line 11, in post
+    if serializer.is_valid():
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 426, in run_validation
+    value = self.to_internal_value(data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 479, in to_internal_value
+    for field in fields:
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 362, in _writable_fields
+    for field in self.fields.values():
+  File "/usr/local/lib/python3.10/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1051, in get_fields
+    info = model_meta.get_field_info(model)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/model_meta.py", line 39, in get_field_info
+    forward_relations = _get_forward_relationships(opts)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/model_meta.py", line 96, in _get_forward_relationships
+    not field.remote_field.through._meta.auto_created
+AttributeError: 'NoneType' object has no attribute '_meta'
+ERROR 2023-09-24 12:01:18,886 log 7 140114042812160 Internal Server Error: /api/authentication/login/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/authentication/views.py", line 11, in post
+    if serializer.is_valid():
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 426, in run_validation
+    value = self.to_internal_value(data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 479, in to_internal_value
+    for field in fields:
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 362, in _writable_fields
+    for field in self.fields.values():
+  File "/usr/local/lib/python3.10/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1051, in get_fields
+    info = model_meta.get_field_info(model)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/model_meta.py", line 39, in get_field_info
+    forward_relations = _get_forward_relationships(opts)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/model_meta.py", line 96, in _get_forward_relationships
+    not field.remote_field.through._meta.auto_created
+AttributeError: 'NoneType' object has no attribute '_meta'
+WARNING 2023-09-24 12:01:36,299 log 7 140114031552256 Not Found: /docs
+WARNING 2023-09-24 12:01:46,695 log 7 140114031552256 Not Found: /api/
+WARNING 2023-09-24 12:01:46,807 log 7 140114031552256 Not Found: /favicon.ico
+WARNING 2023-09-24 12:01:53,515 log 7 140114031552256 Not Found: /api/authentication/
+WARNING 2023-09-24 12:01:57,746 log 7 140114023159552 Method Not Allowed: /api/authentication/login/
+WARNING 2023-09-24 12:02:27,874 log 7 140114031552256 Bad Request: /api/authentication/login/
+ERROR 2023-09-24 12:03:11,879 log 7 140114031552256 Internal Server Error: /api/authentication/login/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/authentication/views.py", line 11, in post
+    if serializer.is_valid():
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 426, in run_validation
+    value = self.to_internal_value(data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 479, in to_internal_value
+    for field in fields:
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 362, in _writable_fields
+    for field in self.fields.values():
+  File "/usr/local/lib/python3.10/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1051, in get_fields
+    info = model_meta.get_field_info(model)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/model_meta.py", line 39, in get_field_info
+    forward_relations = _get_forward_relationships(opts)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/model_meta.py", line 96, in _get_forward_relationships
+    not field.remote_field.through._meta.auto_created
+AttributeError: 'NoneType' object has no attribute '_meta'
+INFO 2023-09-24 12:03:42,889 autoreload 7 140114178246464 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:03:43,532 autoreload 17 140253355489088 Watching for file changes with StatReloader
+INFO 2023-09-24 12:03:46,703 autoreload 17 140253355489088 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:03:47,268 autoreload 19 140566596187968 Watching for file changes with StatReloader
+WARNING 2023-09-24 12:03:53,304 log 19 140566526899968 Not Found: /api/authentication/
+WARNING 2023-09-24 12:04:13,833 log 19 140566526899968 Method Not Allowed: /api/authentication/login/
+ERROR 2023-09-24 12:04:16,858 log 19 140566526899968 Internal Server Error: /api/authentication/login/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/authentication/views.py", line 12, in post
+    print(serializer)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 530, in __repr__
+    return representation.serializer_repr(self, indent=1)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/representation.py", line 77, in serializer_repr
+    fields = serializer.fields
+  File "/usr/local/lib/python3.10/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1051, in get_fields
+    info = model_meta.get_field_info(model)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/model_meta.py", line 39, in get_field_info
+    forward_relations = _get_forward_relationships(opts)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/model_meta.py", line 96, in _get_forward_relationships
+    not field.remote_field.through._meta.auto_created
+AttributeError: 'NoneType' object has no attribute '_meta'
+INFO 2023-09-24 12:05:20,787 autoreload 19 140566596187968 /backend/authentication/admin.py changed, reloading.
+INFO 2023-09-24 12:05:21,420 autoreload 27 140500827531072 Watching for file changes with StatReloader
+WARNING 2023-09-24 12:05:23,761 log 27 140500749850368 Method Not Allowed: /api/authentication/login/
+ERROR 2023-09-24 12:05:31,096 log 27 140500749850368 Internal Server Error: /api/authentication/login/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/authentication/views.py", line 12, in post
+    print(serializer)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 530, in __repr__
+    return representation.serializer_repr(self, indent=1)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/representation.py", line 77, in serializer_repr
+    fields = serializer.fields
+  File "/usr/local/lib/python3.10/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1051, in get_fields
+    info = model_meta.get_field_info(model)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/model_meta.py", line 39, in get_field_info
+    forward_relations = _get_forward_relationships(opts)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/model_meta.py", line 96, in _get_forward_relationships
+    not field.remote_field.through._meta.auto_created
+AttributeError: 'NoneType' object has no attribute '_meta'
+INFO 2023-09-24 12:05:35,756 autoreload 27 140500827531072 /backend/authentication/admin.py changed, reloading.
+INFO 2023-09-24 12:05:36,358 autoreload 31 139679969036096 Watching for file changes with StatReloader
+INFO 2023-09-24 12:07:03,521 autoreload 31 139679969036096 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-09-24 12:07:04,191 autoreload 33 139773401261888 Watching for file changes with StatReloader
+INFO 2023-09-24 12:07:12,455 autoreload 33 139773401261888 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-09-24 12:07:13,115 autoreload 35 140422464350016 Watching for file changes with StatReloader
+INFO 2023-09-24 12:08:40,326 autoreload 35 140422464350016 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-09-24 12:08:40,987 autoreload 37 140239331428160 Watching for file changes with StatReloader
+WARNING 2023-09-24 12:08:52,282 log 37 140239253747456 Method Not Allowed: /api/authentication/login/
+WARNING 2023-09-24 12:08:59,155 log 37 140239253747456 Unauthorized: /api/authentication/login/
+WARNING 2023-09-24 12:09:08,333 log 37 140238735275776 Unauthorized: /api/authentication/login/
+INFO 2023-09-24 12:14:10,145 autoreload 37 140239331428160 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-09-24 12:14:10,766 autoreload 46 140084585584448 Watching for file changes with StatReloader
+INFO 2023-09-24 12:15:07,787 autoreload 46 140084585584448 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-09-24 12:15:08,377 autoreload 48 139991037392704 Watching for file changes with StatReloader
+INFO 2023-09-24 12:29:08,074 autoreload 48 139991037392704 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-09-24 12:29:08,727 autoreload 50 140296213776192 Watching for file changes with StatReloader
+INFO 2023-09-24 12:29:44,354 autoreload 50 140296213776192 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-09-24 12:29:44,977 autoreload 52 140049285748544 Watching for file changes with StatReloader
+INFO 2023-09-24 12:30:18,542 autoreload 52 140049285748544 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:30:19,127 autoreload 54 140119815968576 Watching for file changes with StatReloader
+INFO 2023-09-24 12:31:50,712 autoreload 54 140119815968576 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:31:51,258 autoreload 56 140160797509440 Watching for file changes with StatReloader
+INFO 2023-09-24 12:32:04,566 autoreload 56 140160797509440 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:32:05,130 autoreload 58 140325091747648 Watching for file changes with StatReloader
+INFO 2023-09-24 12:32:23,473 autoreload 58 140325091747648 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:32:24,053 autoreload 60 140056653907776 Watching for file changes with StatReloader
+INFO 2023-09-24 12:32:40,383 autoreload 60 140056653907776 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:32:40,984 autoreload 62 140293589305152 Watching for file changes with StatReloader
+WARNING 2023-09-24 12:32:47,552 log 62 140293520017152 Bad Request: /api/authentication/login/
+WARNING 2023-09-24 12:34:24,455 log 62 140293511624448 Bad Request: /api/authentication/login/
+WARNING 2023-09-24 12:34:45,143 log 62 140293511624448 Bad Request: /api/authentication/login/
+WARNING 2023-09-24 12:34:55,718 log 62 140293511624448 Bad Request: /api/authentication/login/
+INFO 2023-09-24 12:37:53,494 autoreload 62 140293589305152 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-09-24 12:37:54,087 autoreload 66 139793269151552 Watching for file changes with StatReloader
+ERROR 2023-09-24 12:38:05,036 log 66 139793132418816 Internal Server Error: /api/authentication/login/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/authentication/views.py", line 13, in post
+    if serializer.is_valid(raise_exception=True):
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 429, in run_validation
+    value = self.validate(value)
+  File "/backend/authentication/serializers.py", line 35, in validate
+    raise serializers.ErrorDetail(
+TypeError: exceptions must derive from BaseException
+INFO 2023-09-24 12:38:18,553 autoreload 66 139793269151552 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-09-24 12:38:19,107 autoreload 69 140648871483200 Watching for file changes with StatReloader
+WARNING 2023-09-24 12:38:21,828 log 69 140648802195200 Method Not Allowed: /api/authentication/login/
+WARNING 2023-09-24 12:38:28,151 log 69 140648802195200 Bad Request: /api/authentication/login/
+INFO 2023-09-24 12:39:34,457 autoreload 69 140648871483200 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:39:35,166 autoreload 77 140000196065088 Watching for file changes with StatReloader
+WARNING 2023-09-24 12:39:42,124 log 77 140000126777088 Bad Request: /api/authentication/login/
+INFO 2023-09-24 12:41:41,201 autoreload 77 140000196065088 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:41:41,801 autoreload 94 140544794007360 Watching for file changes with StatReloader
+INFO 2023-09-24 12:42:44,865 autoreload 94 140544794007360 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:42:45,657 autoreload 97 140671222196032 Watching for file changes with StatReloader
+INFO 2023-09-24 12:44:53,920 autoreload 97 140671222196032 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:44:54,653 autoreload 100 139708728411968 Watching for file changes with StatReloader
+WARNING 2023-09-24 12:45:05,359 log 100 139708659123968 Forbidden: /api/authentication/login/
+WARNING 2023-09-24 12:45:22,674 log 100 139708575250176 Forbidden: /api/authentication/login/
+INFO 2023-09-24 12:45:48,594 autoreload 100 139708728411968 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:45:49,242 autoreload 104 140114022373184 Watching for file changes with StatReloader
+INFO 2023-09-24 12:45:57,561 autoreload 104 140114022373184 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:45:58,339 autoreload 107 140463447938880 Watching for file changes with StatReloader
+WARNING 2023-09-24 12:50:08,092 log 107 140463378650880 Bad Request: /api/authentication/login/
+WARNING 2023-09-24 12:50:26,775 log 107 140463378650880 Bad Request: /api/authentication/login/
+WARNING 2023-09-24 12:50:34,576 log 107 140463378650880 Bad Request: /api/authentication/login/
+WARNING 2023-09-24 12:50:46,875 log 107 140463378650880 Forbidden: /api/authentication/login/
+WARNING 2023-09-24 12:51:01,168 log 107 140463378650880 Forbidden: /api/authentication/login/
+WARNING 2023-09-24 12:51:04,342 log 107 140463378650880 Forbidden: /api/authentication/login/
+INFO 2023-09-24 12:52:00,327 autoreload 107 140463447938880 /backend/authentication/views.py changed, reloading.
+INFO 2023-09-24 12:52:00,987 autoreload 110 140233941788480 Watching for file changes with StatReloader
+INFO 2023-10-07 17:51:43,499 autoreload 7 140509321721664 Watching for file changes with StatReloader
+INFO 2023-10-07 17:52:16,423 autoreload 7 140457585895232 Watching for file changes with StatReloader
+INFO 2023-10-07 17:55:33,288 autoreload 7 140457585895232 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-07 17:55:33,803 autoreload 10 139774754805568 Watching for file changes with StatReloader
+WARNING 2023-10-07 17:55:36,078 log 10 139774610372352 Bad Request: /api/authentication/login/
+INFO 2023-10-07 17:56:41,376 autoreload 10 139774754805568 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-07 17:56:41,886 autoreload 13 140013051492160 Watching for file changes with StatReloader
+WARNING 2023-10-07 17:56:43,834 log 13 140012913948416 Bad Request: /api/authentication/login/
+INFO 2023-10-07 17:58:56,365 autoreload 13 140013051492160 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-07 17:58:56,915 autoreload 16 140177920194368 Watching for file changes with StatReloader
+WARNING 2023-10-07 18:00:22,686 log 16 140177850906368 Bad Request: /api/authentication/login/
+INFO 2023-10-07 18:00:32,839 autoreload 16 140177920194368 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-07 18:00:33,341 autoreload 19 139709736011584 Watching for file changes with StatReloader
+WARNING 2023-10-07 18:00:36,720 log 19 139709666723584 Bad Request: /api/authentication/login/
+WARNING 2023-10-07 18:02:20,328 log 19 139709666723584 Bad Request: /api/authentication/login/
+WARNING 2023-10-07 18:02:28,884 log 19 139709666723584 Bad Request: /api/authentication/login/
+INFO 2023-10-08 06:21:30,185 autoreload 7 139831362197312 Watching for file changes with StatReloader
+INFO 2023-10-08 06:22:18,186 autoreload 7 139831362197312 /backend/authentication/urls.py changed, reloading.
+INFO 2023-10-08 06:22:18,760 autoreload 9 139983958996800 Watching for file changes with StatReloader
+INFO 2023-10-08 06:22:41,158 autoreload 9 139983958996800 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-08 06:22:41,714 autoreload 11 140207649716032 Watching for file changes with StatReloader
+INFO 2023-10-08 06:22:49,863 autoreload 11 140207649716032 /backend/authentication/urls.py changed, reloading.
+INFO 2023-10-08 06:22:50,438 autoreload 13 140161377560384 Watching for file changes with StatReloader
+INFO 2023-10-08 09:14:06,055 autoreload 13 140161377560384 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-08 09:14:06,688 autoreload 15 140677467424576 Watching for file changes with StatReloader
+INFO 2023-10-08 09:14:10,821 autoreload 15 140677467424576 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-08 09:14:11,477 autoreload 17 140640893228864 Watching for file changes with StatReloader
+INFO 2023-10-18 09:16:51,384 autoreload 7 140591450568512 Watching for file changes with StatReloader
+WARNING 2023-10-18 09:17:01,185 log 7 140591381280512 Not Found: /docs
+WARNING 2023-10-18 09:17:02,192 log 7 140591381280512 Not Found: /
+WARNING 2023-10-18 09:17:02,397 log 7 140591381280512 Not Found: /favicon.ico
+WARNING 2023-10-18 09:17:10,182 log 7 140591381280512 Not Found: /api/authentication
+WARNING 2023-10-18 09:17:13,915 log 7 140591381280512 Method Not Allowed: /api/authentication/login/
+WARNING 2023-10-18 09:17:17,628 log 7 140591381280512 Not Found: /api/authentication/
+ERROR 2023-10-18 09:17:23,170 log 7 140591371839232 Internal Server Error: /api/authentication/logout/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+WARNING 2023-10-18 09:17:32,550 log 7 140591371839232 Not Found: /api/authentication/
+WARNING 2023-10-18 09:17:36,071 log 7 140591381280512 Bad Request: /api/authentication/login/
+WARNING 2023-10-18 09:17:37,467 log 7 140591381280512 Bad Request: /api/authentication/login/
+WARNING 2023-10-18 09:18:23,657 log 7 140591381280512 Not Found: /api
+INFO 2023-10-18 09:19:58,196 autoreload 7 140591450568512 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:19:58,888 autoreload 16 140336156170048 Watching for file changes with StatReloader
+WARNING 2023-10-18 09:20:01,106 log 16 140336086882048 Not Found: /api
+INFO 2023-10-18 09:21:13,318 autoreload 16 140336156170048 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:21:14,096 autoreload 19 140563387250496 Watching for file changes with StatReloader
+INFO 2023-10-18 09:29:24,906 autoreload 19 140563387250496 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-10-18 09:29:25,502 autoreload 21 140225250010944 Watching for file changes with StatReloader
+INFO 2023-10-18 09:29:42,874 autoreload 21 140225250010944 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-10-18 09:29:43,542 autoreload 23 140392379287360 Watching for file changes with StatReloader
+INFO 2023-10-18 09:30:35,354 autoreload 7 140075158468416 Watching for file changes with StatReloader
+INFO 2023-10-18 09:31:21,418 autoreload 7 140075158468416 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-10-18 09:31:22,060 autoreload 9 140263407073088 Watching for file changes with StatReloader
+INFO 2023-10-18 09:32:08,137 autoreload 9 140263407073088 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:32:08,745 autoreload 11 139709731333952 Watching for file changes with StatReloader
+INFO 2023-10-18 09:32:47,714 autoreload 11 139709731333952 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:32:48,348 autoreload 13 139783370078016 Watching for file changes with StatReloader
+WARNING 2023-10-18 09:32:53,465 log 13 139783300790016 Method Not Allowed: /api/authentication/logout/
+INFO 2023-10-18 09:33:12,882 autoreload 13 139783370078016 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-10-18 09:33:13,763 autoreload 17 139880784025408 Watching for file changes with StatReloader
+WARNING 2023-10-18 09:33:14,570 log 17 139880633984768 Method Not Allowed: /api/authentication/logout/
+WARNING 2023-10-18 09:33:15,595 log 17 139880633984768 Method Not Allowed: /api/authentication/logout/
+WARNING 2023-10-18 09:33:16,265 log 17 139880633984768 Method Not Allowed: /api/authentication/logout/
+INFO 2023-10-18 09:33:18,972 autoreload 17 139880784025408 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-10-18 09:33:19,564 autoreload 21 139942184101696 Watching for file changes with StatReloader
+ERROR 2023-10-18 09:36:35,544 log 21 139942046988032 Internal Server Error: /api/authentication/logout
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "/usr/local/lib/python3.10/site-packages/django/middleware/common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "/usr/local/lib/python3.10/site-packages/django/middleware/common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 192.168.0.106:8000/api/authentication/logout/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+INFO 2023-10-18 09:37:56,439 autoreload 21 139942184101696 /backend/authentication/urls.py changed, reloading.
+INFO 2023-10-18 09:37:57,178 autoreload 24 140545537472320 Watching for file changes with StatReloader
+ERROR 2023-10-18 09:38:37,596 log 24 140545468184320 Internal Server Error: /api/authentication/logout
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/authentication/views.py", line 45, in post
+    print(serializer.is_valid(raise_exception=True))
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 426, in run_validation
+    value = self.to_internal_value(data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 479, in to_internal_value
+    for field in fields:
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 362, in _writable_fields
+    for field in self.fields.values():
+  File "/usr/local/lib/python3.10/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1052, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1106, in get_field_names
+    raise TypeError(
+TypeError: The `fields` option must be a list or tuple or "__all__". Got str.
+INFO 2023-10-18 09:38:57,486 autoreload 24 140545537472320 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-10-18 09:38:58,140 autoreload 27 139985786603328 Watching for file changes with StatReloader
+INFO 2023-10-18 09:42:01,354 autoreload 27 139985786603328 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:42:01,991 autoreload 30 139963173128000 Watching for file changes with StatReloader
+INFO 2023-10-18 09:42:04,119 autoreload 30 139963173128000 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:42:04,781 autoreload 32 139779928848192 Watching for file changes with StatReloader
+INFO 2023-10-18 09:44:14,369 autoreload 32 139779928848192 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:44:15,001 autoreload 35 139724653922112 Watching for file changes with StatReloader
+INFO 2023-10-18 09:44:25,282 autoreload 35 139724653922112 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:44:25,857 autoreload 37 140088031741760 Watching for file changes with StatReloader
+INFO 2023-10-18 09:45:30,257 autoreload 37 140088031741760 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:45:30,999 autoreload 40 140516970161984 Watching for file changes with StatReloader
+ERROR 2023-10-18 09:45:32,623 log 40 140516833359616 Internal Server Error: /api/authentication/logout
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/authentication/views.py", line 47, in post
+    token = Token.objects.filter(token=data.get('token'))
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'token' into field. Choices are: created, key, user, user_id
+INFO 2023-10-18 09:46:13,009 autoreload 40 140516970161984 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:46:13,615 autoreload 50 140479518418752 Watching for file changes with StatReloader
+INFO 2023-10-18 09:46:29,026 autoreload 50 140479518418752 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:46:29,634 autoreload 53 140112815048512 Watching for file changes with StatReloader
+INFO 2023-10-18 09:47:20,872 autoreload 53 140112815048512 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:47:21,472 autoreload 56 140405419460416 Watching for file changes with StatReloader
+INFO 2023-10-18 09:50:04,216 autoreload 56 140405419460416 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:50:04,849 autoreload 58 140262664152896 Watching for file changes with StatReloader
+WARNING 2023-10-18 09:50:16,659 log 58 140262594864896 Bad Request: /api/authentication/logout
+WARNING 2023-10-18 09:50:26,726 log 58 140262594864896 Bad Request: /api/authentication/logout
+INFO 2023-10-18 09:50:51,795 autoreload 58 140262664152896 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:50:52,499 autoreload 61 140553425655616 Watching for file changes with StatReloader
+WARNING 2023-10-18 09:50:53,043 log 61 140553357416192 Bad Request: /api/authentication/logout
+INFO 2023-10-18 09:50:58,730 autoreload 61 140553425655616 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:50:59,517 autoreload 64 140006429062976 Watching for file changes with StatReloader
+WARNING 2023-10-18 09:51:06,999 log 64 140006359774976 Bad Request: /api/authentication/logout
+INFO 2023-10-18 09:51:24,076 autoreload 64 140006429062976 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:51:24,742 autoreload 67 140257239619392 Watching for file changes with StatReloader
+WARNING 2023-10-18 09:51:26,780 log 67 140257170331392 Bad Request: /api/authentication/logout
+INFO 2023-10-18 09:51:38,099 autoreload 67 140257239619392 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:51:38,811 autoreload 70 140302775985984 Watching for file changes with StatReloader
+INFO 2023-10-18 09:52:51,428 autoreload 70 140302775985984 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:52:52,038 autoreload 72 140018827183936 Watching for file changes with StatReloader
+INFO 2023-10-18 09:54:34,345 autoreload 72 140018827183936 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:54:34,949 autoreload 74 139948902926144 Watching for file changes with StatReloader
+INFO 2023-10-18 09:54:43,207 autoreload 74 139948902926144 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:54:43,813 autoreload 76 140560564688704 Watching for file changes with StatReloader
+INFO 2023-10-18 09:54:55,111 autoreload 76 140560564688704 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:54:55,743 autoreload 78 140695615027008 Watching for file changes with StatReloader
+WARNING 2023-10-18 09:55:02,653 log 78 140695478204160 Forbidden: /api/authentication/logout
+INFO 2023-10-18 09:57:48,973 autoreload 78 140695615027008 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:57:49,759 autoreload 81 140270414452544 Watching for file changes with StatReloader
+INFO 2023-10-18 09:57:55,996 autoreload 81 140270414452544 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 09:57:56,654 autoreload 83 140693390276416 Watching for file changes with StatReloader
+INFO 2023-10-18 09:58:02,896 autoreload 83 140693390276416 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-10-18 09:58:03,533 autoreload 85 139699680393024 Watching for file changes with StatReloader
+INFO 2023-10-18 10:03:34,878 autoreload 85 139699680393024 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:03:35,597 autoreload 87 140090244990784 Watching for file changes with StatReloader
+WARNING 2023-10-18 10:03:39,289 log 87 140090175702784 Forbidden: /api/authentication/logout
+INFO 2023-10-18 10:04:20,596 autoreload 87 140090244990784 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:04:21,263 autoreload 90 140105534752576 Watching for file changes with StatReloader
+INFO 2023-10-18 10:06:25,885 autoreload 90 140105534752576 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:06:26,499 autoreload 93 139870268225344 Watching for file changes with StatReloader
+WARNING 2023-10-18 10:06:28,670 log 93 139870198937344 Forbidden: /api/authentication/logout
+INFO 2023-10-18 10:07:04,317 autoreload 93 139870268225344 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:07:04,910 autoreload 96 139805087930176 Watching for file changes with StatReloader
+WARNING 2023-10-18 10:08:31,341 log 96 139804943578880 Forbidden: /api/authentication/logout
+WARNING 2023-10-18 10:08:32,997 log 96 139804943578880 Forbidden: /api/authentication/logout
+INFO 2023-10-18 10:09:25,765 autoreload 96 139805087930176 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:09:26,430 autoreload 99 140152539715392 Watching for file changes with StatReloader
+INFO 2023-10-18 10:10:36,847 autoreload 99 140152539715392 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:10:37,383 autoreload 102 140648663500608 Watching for file changes with StatReloader
+WARNING 2023-10-18 10:10:39,988 log 102 140648594212608 Forbidden: /api/authentication/logout
+INFO 2023-10-18 10:14:13,212 autoreload 102 140648663500608 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:14:13,824 autoreload 105 140554592872256 Watching for file changes with StatReloader
+WARNING 2023-10-18 10:14:17,548 log 105 140554523584256 Forbidden: /api/authentication/logout
+WARNING 2023-10-18 10:15:13,912 log 105 140554523584256 Forbidden: /api/authentication/logout
+WARNING 2023-10-18 10:15:31,208 log 105 140554523584256 Forbidden: /api/authentication/logout
+WARNING 2023-10-18 10:16:20,324 log 105 140554523584256 Forbidden: /api/authentication/logout
+INFO 2023-10-18 10:17:11,659 autoreload 105 140554592872256 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:17:12,228 autoreload 108 139723720984384 Watching for file changes with StatReloader
+INFO 2023-10-18 10:17:22,531 autoreload 108 139723720984384 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:17:23,148 autoreload 111 139804273850176 Watching for file changes with StatReloader
+INFO 2023-10-18 10:18:24,413 autoreload 111 139804273850176 /backend/Project/settings.py changed, reloading.
+INFO 2023-10-18 10:18:25,172 autoreload 113 139696216459072 Watching for file changes with StatReloader
+INFO 2023-10-18 10:18:48,723 autoreload 113 139696216459072 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:18:49,437 autoreload 115 140596959520576 Watching for file changes with StatReloader
+INFO 2023-10-18 10:18:53,650 autoreload 115 140596959520576 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:18:54,428 autoreload 117 140580713838400 Watching for file changes with StatReloader
+WARNING 2023-10-18 10:19:07,734 log 117 140580644550400 Unauthorized: /api/authentication/logout
+WARNING 2023-10-18 10:19:38,499 log 117 140580644550400 Forbidden: /api/authentication/login
+WARNING 2023-10-18 10:19:40,745 log 117 140580644550400 Forbidden: /api/authentication/login
+WARNING 2023-10-18 10:19:41,753 log 117 140580644550400 Forbidden: /api/authentication/login
+WARNING 2023-10-18 10:19:41,930 log 117 140580644550400 Forbidden: /api/authentication/login
+INFO 2023-10-18 10:20:09,077 autoreload 117 140580713838400 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:20:09,825 autoreload 120 139631962044224 Watching for file changes with StatReloader
+WARNING 2023-10-18 10:20:13,091 log 120 139631892756224 Forbidden: /api/authentication/login
+WARNING 2023-10-18 10:20:27,193 log 120 139631892756224 Forbidden: /api/authentication/login
+INFO 2023-10-18 10:21:06,106 autoreload 120 139631962044224 /backend/Project/settings.py changed, reloading.
+INFO 2023-10-18 10:21:06,812 autoreload 123 139921592063808 Watching for file changes with StatReloader
+WARNING 2023-10-18 10:21:30,547 log 123 139921522775808 Forbidden: /api/authentication/login
+WARNING 2023-10-18 10:21:36,865 log 123 139921522775808 Forbidden: /api/authentication/login
+INFO 2023-10-18 10:22:04,999 autoreload 123 139921592063808 /backend/Project/settings.py changed, reloading.
+INFO 2023-10-18 10:22:05,791 autoreload 126 139768904030016 Watching for file changes with StatReloader
+INFO 2023-10-18 10:22:07,965 autoreload 126 139768904030016 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:22:08,689 autoreload 128 139699011237696 Watching for file changes with StatReloader
+INFO 2023-10-18 10:22:17,951 autoreload 128 139699011237696 /backend/Project/settings.py changed, reloading.
+INFO 2023-10-18 10:22:18,546 autoreload 130 140548689454912 Watching for file changes with StatReloader
+INFO 2023-10-18 10:22:33,916 autoreload 130 140548689454912 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:22:34,654 autoreload 132 139691669432128 Watching for file changes with StatReloader
+WARNING 2023-10-18 10:22:36,545 log 132 139691529598720 Forbidden: /api/authentication/login
+INFO 2023-10-18 10:22:43,989 autoreload 132 139691669432128 /backend/Project/settings.py changed, reloading.
+INFO 2023-10-18 10:22:44,597 autoreload 135 139672914458432 Watching for file changes with StatReloader
+WARNING 2023-10-18 10:22:46,403 log 135 139672845170432 Forbidden: /api/authentication/login
+INFO 2023-10-18 10:22:50,879 autoreload 135 139672914458432 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:22:51,564 autoreload 138 139700328589120 Watching for file changes with StatReloader
+INFO 2023-10-18 10:26:23,153 autoreload 138 139700328589120 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-10-18 10:26:23,872 autoreload 140 139780596021056 Watching for file changes with StatReloader
+INFO 2023-10-18 10:27:45,496 autoreload 140 139780596021056 /backend/Project/settings.py changed, reloading.
+INFO 2023-10-18 10:27:46,404 autoreload 142 140431930287936 Watching for file changes with StatReloader
+INFO 2023-10-18 10:27:51,576 autoreload 142 140431930287936 /backend/Project/settings.py changed, reloading.
+INFO 2023-10-18 10:27:52,188 autoreload 144 139690148120384 Watching for file changes with StatReloader
+INFO 2023-10-18 10:27:59,422 autoreload 144 139690148120384 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-10-18 10:28:00,084 autoreload 146 139862511527744 Watching for file changes with StatReloader
+WARNING 2023-10-18 10:28:11,789 log 146 139862442239744 Forbidden: /api/authentication/login
+INFO 2023-10-18 10:28:46,940 autoreload 146 139862511527744 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 10:28:47,693 autoreload 149 140153892648768 Watching for file changes with StatReloader
+INFO 2023-10-18 11:11:17,518 autoreload 149 140153892648768 /backend/Project/settings.py changed, reloading.
+INFO 2023-10-18 11:11:18,097 autoreload 151 140041072351040 Watching for file changes with StatReloader
+INFO 2023-10-18 11:19:43,148 autoreload 151 140041072351040 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 11:19:43,773 autoreload 157 139753741182784 Watching for file changes with StatReloader
+ERROR 2023-10-18 11:26:32,262 log 157 139753604249344 Internal Server Error: /api/authentication/login
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 414, in initial
+    self.perform_authentication(request)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 324, in perform_authentication
+    request.user
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 227, in user
+    self._authenticate()
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 380, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/authentication.py", line 42, in authenticate
+    raise NotImplementedError(".authenticate() must be overridden.")
+NotImplementedError: .authenticate() must be overridden.
+ERROR 2023-10-18 11:26:37,868 log 157 139753604249344 Internal Server Error: /api/authentication/login
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 414, in initial
+    self.perform_authentication(request)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 324, in perform_authentication
+    request.user
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 227, in user
+    self._authenticate()
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 380, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/authentication.py", line 42, in authenticate
+    raise NotImplementedError(".authenticate() must be overridden.")
+NotImplementedError: .authenticate() must be overridden.
+INFO 2023-10-18 11:27:54,447 autoreload 157 139753741182784 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-10-18 11:27:55,095 autoreload 161 139789398325056 Watching for file changes with StatReloader
+INFO 2023-10-18 11:28:23,742 autoreload 161 139789398325056 /backend/authentication/views.py changed, reloading.
+INFO 2023-10-18 11:28:24,308 autoreload 163 139676714846016 Watching for file changes with StatReloader
+INFO 2023-10-22 14:44:37,550 autoreload 7 139753944557376 Watching for file changes with StatReloader
+INFO 2023-11-23 16:39:01,889 autoreload 7 140692040857408 Watching for file changes with StatReloader
+ERROR 2023-11-23 16:39:36,189 log 7 140691971569408 Internal Server Error: /api/authentication/login
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 414, in initial
+    self.perform_authentication(request)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 324, in perform_authentication
+    request.user
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 227, in user
+    self._authenticate()
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 380, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/authentication.py", line 42, in authenticate
+    raise NotImplementedError(".authenticate() must be overridden.")
+NotImplementedError: .authenticate() must be overridden.
+INFO 2023-11-23 16:40:38,482 autoreload 7 140692040857408 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-11-23 16:40:39,073 autoreload 10 139734566987584 Watching for file changes with StatReloader
+INFO 2023-11-23 16:41:57,480 autoreload 10 139734566987584 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 16:41:58,016 autoreload 12 140702971664192 Watching for file changes with StatReloader
+ERROR 2023-11-23 16:42:01,935 log 12 140702902376192 Internal Server Error: /api/authentication/login
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 414, in initial
+    self.perform_authentication(request)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 324, in perform_authentication
+    request.user
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 227, in user
+    self._authenticate()
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 380, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/authentication.py", line 42, in authenticate
+    raise NotImplementedError(".authenticate() must be overridden.")
+NotImplementedError: .authenticate() must be overridden.
+INFO 2023-11-23 16:42:54,124 autoreload 12 140702971664192 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 16:42:54,649 autoreload 15 140263584094016 Watching for file changes with StatReloader
+INFO 2023-11-23 16:43:32,504 autoreload 15 140263584094016 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 16:43:33,068 autoreload 17 139667741771584 Watching for file changes with StatReloader
+ERROR 2023-11-23 16:43:49,883 log 17 139667672483584 Internal Server Error: /api/authentication/login
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 414, in initial
+    self.perform_authentication(request)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 324, in perform_authentication
+    request.user
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 227, in user
+    self._authenticate()
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 380, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/authentication.py", line 42, in authenticate
+    raise NotImplementedError(".authenticate() must be overridden.")
+NotImplementedError: .authenticate() must be overridden.
+INFO 2023-11-23 16:45:14,688 autoreload 17 139667741771584 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-11-23 16:45:15,300 autoreload 20 140584211470144 Watching for file changes with StatReloader
+INFO 2023-11-23 16:46:14,440 autoreload 20 140584211470144 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-11-23 16:46:14,963 autoreload 22 140385027385152 Watching for file changes with StatReloader
+INFO 2023-11-23 16:47:04,748 autoreload 22 140385027385152 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-11-23 16:47:05,323 autoreload 24 140016081987392 Watching for file changes with StatReloader
+ERROR 2023-11-23 16:47:08,139 log 24 140016012699392 Internal Server Error: /api/authentication/login
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 414, in initial
+    self.perform_authentication(request)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 324, in perform_authentication
+    request.user
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 227, in user
+    self._authenticate()
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 380, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/authentication.py", line 42, in authenticate
+    raise NotImplementedError(".authenticate() must be overridden.")
+NotImplementedError: .authenticate() must be overridden.
+INFO 2023-11-23 16:47:19,644 autoreload 24 140016081987392 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-11-23 16:47:20,224 autoreload 27 139766006134592 Watching for file changes with StatReloader
+INFO 2023-11-23 16:53:32,871 autoreload 27 139766006134592 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 16:53:33,488 autoreload 29 140345683269440 Watching for file changes with StatReloader
+WARNING 2023-11-23 16:53:48,399 log 29 140345613981440 Unauthorized: /api/authentication/login
+WARNING 2023-11-23 16:53:59,458 log 29 140345613981440 Unauthorized: /api/authentication/login
+WARNING 2023-11-23 16:54:00,908 log 29 140345613981440 Unauthorized: /api/authentication/login
+WARNING 2023-11-23 16:54:08,581 log 29 140345605588736 Not Found: /favicon.ico
+WARNING 2023-11-23 16:54:25,482 log 29 140345613981440 Unauthorized: /api/authentication/login
+INFO 2023-11-23 16:54:49,857 autoreload 29 140345683269440 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 16:54:50,422 autoreload 38 140101499377472 Watching for file changes with StatReloader
+WARNING 2023-11-23 16:54:53,170 log 38 140101362382592 Unauthorized: /api/authentication/login
+INFO 2023-11-23 16:54:59,683 autoreload 38 140101499377472 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 16:55:00,280 autoreload 41 140324743456576 Watching for file changes with StatReloader
+INFO 2023-11-23 16:55:34,987 autoreload 41 140324743456576 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 16:55:35,503 autoreload 43 140231667664704 Watching for file changes with StatReloader
+ERROR 2023-11-23 16:55:45,314 log 43 140231598376704 Internal Server Error: /api/authentication/login
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 414, in initial
+    self.perform_authentication(request)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 324, in perform_authentication
+    request.user
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 227, in user
+    self._authenticate()
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 380, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/authentication.py", line 42, in authenticate
+    raise NotImplementedError(".authenticate() must be overridden.")
+NotImplementedError: .authenticate() must be overridden.
+INFO 2023-11-23 16:55:54,864 autoreload 43 140231667664704 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 16:55:55,424 autoreload 46 140714228365120 Watching for file changes with StatReloader
+WARNING 2023-11-23 16:55:57,431 log 46 140714159077120 Unauthorized: /api/authentication/login
+INFO 2023-11-23 16:56:23,919 autoreload 46 140714228365120 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-11-23 16:56:24,488 autoreload 49 140378744428352 Watching for file changes with StatReloader
+WARNING 2023-11-23 16:56:26,435 log 49 140378675140352 Unauthorized: /api/authentication/login
+INFO 2023-11-23 16:56:45,970 autoreload 49 140378744428352 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 16:56:46,505 autoreload 52 140070453557056 Watching for file changes with StatReloader
+WARNING 2023-11-23 16:56:48,992 log 52 140070384269056 Unauthorized: /api/authentication/login
+WARNING 2023-11-23 16:56:55,467 log 52 140070384269056 Unauthorized: /api/authentication/login
+WARNING 2023-11-23 16:57:02,140 log 52 140070384269056 Unauthorized: /api/authentication/login
+WARNING 2023-11-23 16:57:02,237 log 52 140070384269056 Unauthorized: /api/authentication/login
+WARNING 2023-11-23 16:57:02,355 log 52 140070384269056 Unauthorized: /api/authentication/login
+WARNING 2023-11-23 16:57:02,439 log 52 140070384269056 Unauthorized: /api/authentication/login
+WARNING 2023-11-23 16:57:02,618 log 52 140070384269056 Unauthorized: /api/authentication/login
+WARNING 2023-11-23 16:57:06,445 log 52 140070384269056 Unauthorized: /api/authentication/login
+INFO 2023-11-23 16:57:30,312 autoreload 52 140070453557056 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 16:57:30,848 autoreload 55 139832056043328 Watching for file changes with StatReloader
+INFO 2023-11-23 16:57:34,009 autoreload 55 139832056043328 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 16:57:34,515 autoreload 57 140568892389184 Watching for file changes with StatReloader
+WARNING 2023-11-23 16:57:36,221 log 57 140568823101184 Forbidden: /api/authentication/login
+INFO 2023-11-23 16:59:57,909 autoreload 57 140568892389184 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-11-23 16:59:58,450 autoreload 60 140418121480000 Watching for file changes with StatReloader
+INFO 2023-11-23 17:00:39,141 autoreload 60 140418121480000 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 17:00:39,655 autoreload 62 139688424159040 Watching for file changes with StatReloader
+WARNING 2023-11-23 17:00:44,819 log 62 139688354871040 Forbidden: /api/authentication/login
+INFO 2023-11-23 17:01:32,646 autoreload 62 139688424159040 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 17:01:33,198 autoreload 65 140155251205952 Watching for file changes with StatReloader
+INFO 2023-11-23 17:02:38,378 autoreload 65 140155251205952 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 17:02:38,932 autoreload 67 140398674741056 Watching for file changes with StatReloader
+INFO 2023-11-23 17:02:47,154 autoreload 67 140398674741056 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 17:02:47,700 autoreload 69 139742739244864 Watching for file changes with StatReloader
+INFO 2023-11-23 17:04:40,746 autoreload 69 139742739244864 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-11-23 17:04:41,283 autoreload 72 139763432269632 Watching for file changes with StatReloader
+WARNING 2023-11-23 17:04:43,450 log 72 139763362981632 Unauthorized: /api/authentication/logout
+INFO 2023-11-23 17:05:11,865 autoreload 72 139763432269632 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 17:05:12,418 autoreload 75 139749702375232 Watching for file changes with StatReloader
+ERROR 2023-11-23 17:05:15,273 log 75 139749633087232 Internal Server Error: /api/authentication/logout
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 414, in initial
+    self.perform_authentication(request)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 324, in perform_authentication
+    request.user
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 227, in user
+    self._authenticate()
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/request.py", line 380, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/authentication.py", line 42, in authenticate
+    raise NotImplementedError(".authenticate() must be overridden.")
+NotImplementedError: .authenticate() must be overridden.
+INFO 2023-11-23 17:05:22,679 autoreload 75 139749702375232 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 17:05:23,209 autoreload 78 140539729110848 Watching for file changes with StatReloader
+WARNING 2023-11-23 17:05:31,457 log 78 140539659822848 Unauthorized: /api/authentication/logout
+INFO 2023-11-23 17:06:24,313 autoreload 78 140539729110848 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 17:06:24,829 autoreload 81 140313425508160 Watching for file changes with StatReloader
+WARNING 2023-11-23 17:09:50,262 log 81 140313289029376 Unauthorized: /api/authentication/logout
+INFO 2023-11-23 17:10:57,853 autoreload 81 140313425508160 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 17:10:58,397 autoreload 84 139677322872640 Watching for file changes with StatReloader
+WARNING 2023-11-23 17:11:07,961 log 84 139677253584640 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:11:37,576 log 84 139677253584640 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:15:16,134 log 84 139677253584640 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:17:11,802 log 84 139676987926272 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:17:51,412 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:18:24,988 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:18:26,910 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:18:27,781 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:18:27,967 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:18:28,241 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:18:28,354 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:18:28,483 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:18:28,708 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:18:28,831 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:18:29,014 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:18:40,611 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:19:57,417 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:19:59,065 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:19:59,162 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:19:59,261 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:19:59,371 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:19:59,483 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:19:59,667 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:20:09,980 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:20:10,083 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:20:10,198 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:20:10,315 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:20:10,503 log 84 139677025691392 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:20:37,719 log 84 139677253584640 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:21:38,515 log 84 139677253584640 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:21:51,687 log 84 139677253584640 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:22:33,667 log 84 139677253584640 Unauthorized: /api/authentication/logout
+WARNING 2023-11-23 17:25:02,581 log 84 139677025691392 Unauthorized: /api/authentication/logout
+INFO 2023-11-23 18:15:04,153 autoreload 84 139677322872640 /backend/authentication/serializers.py changed, reloading.
+INFO 2023-11-23 18:15:04,786 autoreload 98 139745033602880 Watching for file changes with StatReloader
+INFO 2023-11-23 18:15:08,981 autoreload 98 139745033602880 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 18:15:09,614 autoreload 100 139650845640512 Watching for file changes with StatReloader
+INFO 2023-11-23 18:16:26,267 autoreload 100 139650845640512 /backend/authentication/urls.py changed, reloading.
+INFO 2023-11-23 18:16:26,785 autoreload 103 139819369322304 Watching for file changes with StatReloader
+WARNING 2023-11-23 18:16:32,106 log 103 139819232524032 Forbidden: /api/authentication/login2
+INFO 2023-11-23 18:17:16,652 autoreload 103 139819369322304 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 18:17:17,160 autoreload 106 140095221413696 Watching for file changes with StatReloader
+WARNING 2023-11-23 18:17:22,463 log 106 140095152125696 Forbidden: /api/authentication/login2
+INFO 2023-11-23 18:18:52,325 autoreload 106 140095221413696 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 18:18:52,958 autoreload 109 139972166928192 Watching for file changes with StatReloader
+INFO 2023-11-23 18:25:13,849 autoreload 7 140043154470720 Watching for file changes with StatReloader
+INFO 2023-11-23 18:25:21,015 autoreload 7 140043154470720 /backend/authentication/urls.py changed, reloading.
+INFO 2023-11-23 18:25:21,610 autoreload 9 140618126837568 Watching for file changes with StatReloader
+INFO 2023-11-23 18:25:43,066 autoreload 9 140618126837568 /backend/authentication/views.py changed, reloading.
+INFO 2023-11-23 18:25:43,667 autoreload 12 139986105120576 Watching for file changes with StatReloader
+INFO 2023-11-30 18:27:05,015 autoreload 7 140475329820480 Watching for file changes with StatReloader
+INFO 2023-11-30 18:28:51,095 autoreload 7 139833270998848 Watching for file changes with StatReloader
+WARNING 2023-11-30 18:39:48,674 log 7 139833129301760 Bad Request: /api/authentication/login
+INFO 2024-08-03 17:12:57,199 autoreload 7 140211980347200 Watching for file changes with StatReloader
+INFO 2024-08-03 17:13:42,583 autoreload 7 140298719274816 Watching for file changes with StatReloader
+WARNING 2024-08-03 17:14:23,051 log 7 140298649986816 Unauthorized: /api/authentication/logout
+WARNING 2024-08-03 17:14:23,670 log 7 140298649986816 Unauthorized: /api/authentication/logout
+WARNING 2024-08-03 17:14:23,780 log 7 140298649986816 Unauthorized: /api/authentication/logout
+WARNING 2024-08-03 17:14:23,885 log 7 140298649986816 Unauthorized: /api/authentication/logout
+WARNING 2024-08-03 17:14:24,066 log 7 140298649986816 Unauthorized: /api/authentication/logout
+INFO 2024-08-03 17:48:42,898 autoreload 7 140520816555840 Watching for file changes with StatReloader
+INFO 2024-08-03 18:48:31,911 autoreload 7 140038690559808 Watching for file changes with StatReloader
+INFO 2024-08-04 07:30:50,793 autoreload 7 140187516155712 Watching for file changes with StatReloader
+INFO 2024-08-05 19:19:43,190 autoreload 7 139712795936576 Watching for file changes with StatReloader
+WARNING 2024-08-05 19:19:59,079 log 7 139712726648576 Unauthorized: /api/authentication/logout
+WARNING 2024-08-05 19:19:59,189 log 7 139712726648576 Unauthorized: /api/authentication/logout
+WARNING 2024-08-05 19:19:59,369 log 7 139712726648576 Unauthorized: /api/authentication/logout
+INFO 2024-08-05 19:20:28,001 autoreload 7 139712795936576 /backend/authentication/views.py changed, reloading.
+INFO 2024-08-05 19:20:28,654 autoreload 10 140233596725056 Watching for file changes with StatReloader
+INFO 2024-08-05 19:20:52,163 autoreload 10 140233596725056 /backend/authentication/views.py changed, reloading.
+INFO 2024-08-05 19:20:52,708 autoreload 12 139757965854528 Watching for file changes with StatReloader
+INFO 2024-08-05 19:20:54,877 autoreload 12 139757965854528 /backend/authentication/views.py changed, reloading.
+INFO 2024-08-05 19:20:55,490 autoreload 14 139719508891456 Watching for file changes with StatReloader
+INFO 2024-08-05 19:22:08,729 autoreload 14 139719508891456 /backend/authentication/views.py changed, reloading.
+INFO 2024-08-05 19:22:09,282 autoreload 16 139681770149696 Watching for file changes with StatReloader
+INFO 2024-08-05 19:31:12,621 autoreload 16 139681770149696 /backend/authentication/views.py changed, reloading.
+INFO 2024-08-05 19:31:13,177 autoreload 18 140555107272512 Watching for file changes with StatReloader
+WARNING 2024-08-05 19:35:51,561 log 18 140555037984512 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:35:53,555 log 18 140555037984512 Bad Request: /api/authentication/login
+INFO 2024-08-05 19:36:34,548 autoreload 18 140555107272512 /backend/authentication/views.py changed, reloading.
+INFO 2024-08-05 19:36:35,142 autoreload 21 139638380263232 Watching for file changes with StatReloader
+WARNING 2024-08-05 19:36:38,645 log 21 139638243063552 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:36:42,889 log 21 139638243063552 Bad Request: /api/authentication/login
+INFO 2024-08-05 19:37:08,795 autoreload 21 139638380263232 /backend/authentication/serializers.py changed, reloading.
+INFO 2024-08-05 19:37:09,346 autoreload 24 140127720634176 Watching for file changes with StatReloader
+WARNING 2024-08-05 19:37:10,990 log 24 140127651346176 Bad Request: /api/authentication/login
+INFO 2024-08-05 19:37:36,847 autoreload 24 140127720634176 /backend/authentication/serializers.py changed, reloading.
+INFO 2024-08-05 19:37:37,496 autoreload 27 139922631587648 Watching for file changes with StatReloader
+WARNING 2024-08-05 19:37:38,221 log 27 139922563348224 Bad Request: /api/authentication/login
+INFO 2024-08-05 19:37:56,868 autoreload 27 139922631587648 /backend/authentication/serializers.py changed, reloading.
+INFO 2024-08-05 19:37:57,592 autoreload 30 139707505915712 Watching for file changes with StatReloader
+INFO 2024-08-05 19:38:02,780 autoreload 30 139707505915712 /backend/authentication/views.py changed, reloading.
+INFO 2024-08-05 19:38:03,349 autoreload 32 140293501404992 Watching for file changes with StatReloader
+WARNING 2024-08-05 19:38:16,668 log 32 140293361891072 Unauthorized: /api/authentication/logout
+WARNING 2024-08-05 19:38:29,565 log 32 140293361891072 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:38:31,179 log 32 140293361891072 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:40:13,852 log 32 140293361891072 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:40:18,871 log 32 140293361891072 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:40:46,576 log 32 140293361891072 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:40:57,431 log 32 140293361891072 Bad Request: /api/authentication/login
+INFO 2024-08-05 19:41:44,080 autoreload 32 140293501404992 /backend/authentication/serializers.py changed, reloading.
+INFO 2024-08-05 19:41:44,639 autoreload 35 140334202640192 Watching for file changes with StatReloader
+INFO 2024-08-05 19:43:56,999 autoreload 35 140334202640192 /backend/authentication/serializers.py changed, reloading.
+INFO 2024-08-05 19:43:57,584 autoreload 37 140613019203392 Watching for file changes with StatReloader
+WARNING 2024-08-05 19:44:12,206 log 37 140612949915392 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:44:35,054 log 37 140612949915392 Bad Request: /api/authentication/login
+INFO 2024-08-05 19:45:43,333 autoreload 37 140613019203392 /backend/authentication/serializers.py changed, reloading.
+INFO 2024-08-05 19:45:43,923 autoreload 40 140431564867392 Watching for file changes with StatReloader
+WARNING 2024-08-05 19:45:46,436 log 40 140431495579392 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:46:53,140 log 40 140431495579392 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:46:54,848 log 40 140431495579392 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:47:06,428 log 40 140431495579392 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:47:28,636 log 40 140431495579392 Bad Request: /api/authentication/login
+WARNING 2024-08-05 19:49:53,048 log 40 140431495579392 Unauthorized: /api/authentication/logout
+WARNING 2024-08-05 20:02:35,723 log 40 140431495579392 Unauthorized: /api/authentication/logout
+INFO 2024-08-07 17:45:31,239 autoreload 7 140110925834048 Watching for file changes with StatReloader
+INFO 2024-08-07 17:45:44,531 autoreload 7 140110925834048 /backend/authentication/models.py changed, reloading.
+INFO 2024-08-07 17:45:45,165 autoreload 9 139821256800064 Watching for file changes with StatReloader
+INFO 2024-08-07 17:46:04,456 autoreload 9 139821256800064 /backend/authentication/models.py changed, reloading.
+INFO 2024-08-07 17:46:05,051 autoreload 11 140028609161024 Watching for file changes with StatReloader
+INFO 2024-08-07 17:46:48,503 autoreload 11 140028609161024 /backend/authentication/models.py changed, reloading.
+INFO 2024-08-07 17:46:49,046 autoreload 13 139847503656768 Watching for file changes with StatReloader
+INFO 2024-08-07 17:50:00,602 autoreload 13 139847503656768 /backend/authentication/migrations/0001_initial.py changed, reloading.
+INFO 2024-08-07 17:50:01,267 autoreload 30 139680321308480 Watching for file changes with StatReloader
+INFO 2024-08-07 17:56:46,112 autoreload 30 139680321308480 /backend/authentication/views.py changed, reloading.
+INFO 2024-08-07 17:56:46,890 autoreload 35 139792673961792 Watching for file changes with StatReloader
+INFO 2024-08-07 17:56:57,184 autoreload 35 139792673961792 /backend/authentication/views.py changed, reloading.
+INFO 2024-08-07 17:56:57,836 autoreload 37 140078988425024 Watching for file changes with StatReloader
+INFO 2024-08-07 18:45:34,906 autoreload 37 140078988425024 /backend/Project/settings.py changed, reloading.
+INFO 2024-08-07 18:45:35,589 autoreload 41 139868307789632 Watching for file changes with StatReloader
+INFO 2024-08-07 19:47:46,661 autoreload 41 139868307789632 /backend/file/models.py changed, reloading.
+INFO 2024-08-07 19:47:47,216 autoreload 43 140538380953408 Watching for file changes with StatReloader
+INFO 2024-08-07 19:47:51,399 autoreload 43 140538380953408 /backend/file/models.py changed, reloading.
+INFO 2024-08-07 19:47:51,950 autoreload 45 139657883002688 Watching for file changes with StatReloader
+INFO 2024-08-07 19:48:23,545 autoreload 45 139657883002688 /backend/file/models.py changed, reloading.
+INFO 2024-08-07 19:48:24,212 autoreload 47 140318659630912 Watching for file changes with StatReloader
+INFO 2024-08-07 19:50:22,227 autoreload 47 140318659630912 /backend/file/models.py changed, reloading.
+INFO 2024-08-07 19:50:22,899 autoreload 49 140359964800832 Watching for file changes with StatReloader
+INFO 2024-08-07 19:50:40,315 autoreload 49 140359964800832 /backend/file/models.py changed, reloading.
+INFO 2024-08-07 19:50:40,942 autoreload 51 139798534195008 Watching for file changes with StatReloader
+INFO 2024-08-07 19:51:35,827 autoreload 51 139798534195008 /backend/file/models.py changed, reloading.
+INFO 2024-08-07 19:51:36,400 autoreload 53 140658328131392 Watching for file changes with StatReloader
+INFO 2024-08-07 19:57:26,379 autoreload 53 140658328131392 /backend/Project/settings.py changed, reloading.
+INFO 2024-08-07 19:57:27,029 autoreload 55 140506659624768 Watching for file changes with StatReloader
+INFO 2024-08-07 19:57:52,537 autoreload 55 140506659624768 /backend/file/models.py changed, reloading.
+INFO 2024-08-07 19:57:53,235 autoreload 57 140701983729472 Watching for file changes with StatReloader
+INFO 2024-08-07 20:00:34,631 autoreload 57 140701983729472 /backend/Project/settings.py changed, reloading.
+INFO 2024-08-07 20:00:35,328 autoreload 59 140326905214784 Watching for file changes with StatReloader
+INFO 2024-08-07 20:01:20,176 autoreload 59 140326905214784 /backend/Project/settings.py changed, reloading.
+INFO 2024-08-07 20:01:20,857 autoreload 61 139814828304192 Watching for file changes with StatReloader
+INFO 2024-08-07 20:02:13,824 autoreload 61 139814828304192 /backend/Project/urls.py changed, reloading.
+INFO 2024-08-07 20:02:14,378 autoreload 63 140262434645824 Watching for file changes with StatReloader
+INFO 2024-08-07 20:02:20,588 autoreload 63 140262434645824 /backend/Project/urls.py changed, reloading.
+INFO 2024-08-07 20:02:21,222 autoreload 65 140402847762240 Watching for file changes with StatReloader
+INFO 2024-08-07 20:02:32,484 autoreload 65 140402847762240 /backend/Project/urls.py changed, reloading.
+INFO 2024-08-07 20:02:33,153 autoreload 67 139953384462144 Watching for file changes with StatReloader
+INFO 2024-08-07 20:03:05,716 autoreload 67 139953384462144 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:03:06,285 autoreload 69 140397926889280 Watching for file changes with StatReloader
+INFO 2024-08-07 20:03:39,857 autoreload 69 140397926889280 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:03:40,511 autoreload 71 139874594682688 Watching for file changes with StatReloader
+INFO 2024-08-07 20:03:50,761 autoreload 71 139874594682688 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:03:51,331 autoreload 73 140454605109056 Watching for file changes with StatReloader
+INFO 2024-08-07 20:04:26,977 autoreload 73 140454605109056 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:04:27,562 autoreload 75 139740112783168 Watching for file changes with StatReloader
+WARNING 2024-08-07 20:09:43,982 log 75 139740042028800 Not Found: /api/file/upload
+WARNING 2024-08-07 20:11:29,089 log 75 139740042028800 Not Found: /api/file/upload
+WARNING 2024-08-07 20:12:24,258 log 75 139740042028800 Not Found: /api/file/upload
+WARNING 2024-08-07 20:12:43,050 log 75 139740042028800 Not Found: /api/file/upload
+WARNING 2024-08-07 20:12:55,780 log 75 139740042028800 Not Found: /api/file/upload
+WARNING 2024-08-07 20:13:01,273 log 75 139740042028800 Not Found: /api/file/upload
+WARNING 2024-08-07 20:17:12,412 log 75 139740042028800 Not Found: /api/file/upload
+INFO 2024-08-07 20:17:35,626 autoreload 75 139740112783168 /backend/file/urls.py changed, reloading.
+INFO 2024-08-07 20:17:36,303 autoreload 78 139913635661632 Watching for file changes with StatReloader
+INFO 2024-08-07 20:17:47,614 autoreload 78 139913635661632 /backend/file/urls.py changed, reloading.
+INFO 2024-08-07 20:17:48,251 autoreload 80 139758896445248 Watching for file changes with StatReloader
+ERROR 2024-08-07 20:17:56,188 log 80 139758825690880 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: files
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 21, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 24, in create
+    file_instance = File.objects.create(**validated_data)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/base.py", line 814, in save
+    self.save_base(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/base.py", line 877, in save_base
+    updated = self._save_table(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: files
+ERROR 2024-08-07 20:18:56,023 log 80 139758825690880 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 21, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:20:09,907 log 80 139758825690880 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 21, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:20:36,532 log 80 139758825690880 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 21, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:20:55,285 log 80 139758825690880 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 21, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+INFO 2024-08-07 20:22:17,848 autoreload 80 139758896445248 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-07 20:22:18,554 autoreload 99 139955923437376 Watching for file changes with StatReloader
+INFO 2024-08-07 20:22:28,832 autoreload 99 139955923437376 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:22:29,446 autoreload 101 140164913317696 Watching for file changes with StatReloader
+ERROR 2024-08-07 20:22:36,563 log 101 140164842563328 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:23:46,486 log 101 140164842563328 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:24:24,856 log 101 140164842563328 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:26:00,099 log 101 140164842563328 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:26:46,702 log 101 140164842563328 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:27:31,516 log 101 140164842563328 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:28:27,574 log 101 140164842563328 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:29:30,665 log 101 140164842563328 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:30:20,876 log 101 140164842563328 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:31:06,649 log 101 140164842563328 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+INFO 2024-08-07 20:32:06,709 autoreload 101 140164913317696 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:32:07,290 autoreload 104 139636304996160 Watching for file changes with StatReloader
+ERROR 2024-08-07 20:32:16,547 log 104 139636164785920 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+INFO 2024-08-07 20:32:26,730 autoreload 104 139636304996160 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:32:27,362 autoreload 107 140018281875264 Watching for file changes with StatReloader
+ERROR 2024-08-07 20:32:30,748 log 107 140018143983360 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 23, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+INFO 2024-08-07 20:32:50,970 autoreload 107 140018281875264 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:32:51,617 autoreload 110 139694350423872 Watching for file changes with StatReloader
+ERROR 2024-08-07 20:33:03,405 log 110 139694211856128 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 23, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+INFO 2024-08-07 20:34:09,117 autoreload 110 139694350423872 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:34:09,814 autoreload 113 140590632347456 Watching for file changes with StatReloader
+INFO 2024-08-07 20:36:20,200 autoreload 113 140590632347456 /backend/Project/settings.py changed, reloading.
+INFO 2024-08-07 20:36:20,807 autoreload 115 139727991789376 Watching for file changes with StatReloader
+INFO 2024-08-07 20:36:56,549 autoreload 115 139727991789376 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-07 20:36:57,193 autoreload 117 140587406030656 Watching for file changes with StatReloader
+ERROR 2024-08-07 20:37:02,852 log 117 140587335276288 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 21, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 28, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+INFO 2024-08-07 20:37:21,752 autoreload 117 140587406030656 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:37:22,323 autoreload 120 140636161591104 Watching for file changes with StatReloader
+ERROR 2024-08-07 20:37:32,961 log 120 140636019750656 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 28, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+ERROR 2024-08-07 20:39:46,012 log 120 140636019750656 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 22, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 28, in create
+    'file': file_instance.file.url,  # This returns the file URL
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'file' attribute has no file associated with it.
+INFO 2024-08-07 20:43:04,919 autoreload 120 140636161591104 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-07 20:43:05,522 autoreload 123 140636018513728 Watching for file changes with StatReloader
+WARNING 2024-08-07 20:44:06,410 log 123 140635938318080 Not Found: /favicon.ico
+INFO 2024-08-07 20:45:06,727 autoreload 123 140636018513728 /backend/file/admin.py changed, reloading.
+INFO 2024-08-07 20:45:07,322 autoreload 129 140566451484480 Watching for file changes with StatReloader
+INFO 2024-08-07 20:45:15,591 autoreload 129 140566451484480 /backend/file/admin.py changed, reloading.
+INFO 2024-08-07 20:45:16,168 autoreload 131 140347743762240 Watching for file changes with StatReloader
+INFO 2024-08-07 20:47:47,488 autoreload 131 140347743762240 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:47:48,070 autoreload 139 140239529043776 Watching for file changes with StatReloader
+INFO 2024-08-07 20:54:47,912 autoreload 139 140239529043776 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:54:48,605 autoreload 141 140360054425408 Watching for file changes with StatReloader
+INFO 2024-08-07 20:56:31,434 autoreload 7 140046962739008 Watching for file changes with StatReloader
+ERROR 2024-08-07 20:56:40,814 log 7 140046095865600 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 25, in post
+    read_file = ReadingExcelFile(file_data.file)
+AttributeError: 'dict' object has no attribute 'file'
+INFO 2024-08-07 20:57:02,455 autoreload 7 140046962739008 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:57:03,098 autoreload 25 139935629526848 Watching for file changes with StatReloader
+INFO 2024-08-07 20:57:33,014 autoreload 25 139935629526848 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 20:57:33,705 autoreload 42 140319726741312 Watching for file changes with StatReloader
+ERROR 2024-08-07 20:57:37,308 log 42 140318859855616 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/usr/local/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 26, in post
+    df = read_file.extract_file_info()
+  File "/backend/file/utils.py", line 9, in extract_file_info
+    df = pd.read_excel(self.file)
+  File "/usr/local/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 495, in read_excel
+    io = ExcelFile(
+  File "/usr/local/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 1567, in __init__
+    self._reader = self._engines[engine](
+  File "/usr/local/lib/python3.10/site-packages/pandas/io/excel/_openpyxl.py", line 552, in __init__
+    import_optional_dependency("openpyxl")
+  File "/usr/local/lib/python3.10/site-packages/pandas/compat/_optional.py", line 138, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+INFO 2024-08-07 21:00:18,856 autoreload 42 140319726741312 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 21:00:19,615 autoreload 77 140662731097920 Watching for file changes with StatReloader
+INFO 2024-08-07 21:01:45,417 autoreload 77 140662731097920 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:01:46,101 autoreload 94 139724806948672 Watching for file changes with StatReloader
+INFO 2024-08-07 21:03:51,694 autoreload 94 139724806948672 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:03:52,429 autoreload 111 140147799254848 Watching for file changes with StatReloader
+INFO 2024-08-07 21:04:19,314 autoreload 111 140147799254848 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:04:20,026 autoreload 128 140169717856064 Watching for file changes with StatReloader
+INFO 2024-08-07 21:05:01,088 autoreload 128 140169717856064 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:05:01,751 autoreload 145 139707534956352 Watching for file changes with StatReloader
+INFO 2024-08-07 21:05:40,792 autoreload 145 139707534956352 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:05:41,534 autoreload 162 139630135863104 Watching for file changes with StatReloader
+INFO 2024-08-07 21:09:01,540 autoreload 162 139630135863104 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:09:02,192 autoreload 180 140362336356160 Watching for file changes with StatReloader
+INFO 2024-08-07 21:09:20,849 autoreload 180 140362336356160 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:09:21,580 autoreload 197 139660562679616 Watching for file changes with StatReloader
+INFO 2024-08-07 21:09:35,146 autoreload 197 139660562679616 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:09:35,765 autoreload 214 140666566743872 Watching for file changes with StatReloader
+INFO 2024-08-07 21:09:48,335 autoreload 214 140666566743872 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:09:48,948 autoreload 231 140672150656832 Watching for file changes with StatReloader
+INFO 2024-08-07 21:10:09,630 autoreload 231 140672150656832 /backend/file/views.py changed, reloading.
+INFO 2024-08-07 21:10:10,337 autoreload 248 140261069805376 Watching for file changes with StatReloader
+INFO 2024-08-07 21:55:35,907 autoreload 248 140261069805376 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:55:36,756 autoreload 265 139950438315840 Watching for file changes with StatReloader
+INFO 2024-08-07 21:56:18,938 autoreload 265 139950438315840 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:56:19,597 autoreload 282 139781450577728 Watching for file changes with StatReloader
+INFO 2024-08-07 21:56:37,303 autoreload 282 139781450577728 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:56:37,949 autoreload 299 139826536765248 Watching for file changes with StatReloader
+INFO 2024-08-07 21:57:08,895 autoreload 299 139826536765248 /backend/file/utils.py changed, reloading.
+INFO 2024-08-07 21:57:09,537 autoreload 316 140043237066560 Watching for file changes with StatReloader
