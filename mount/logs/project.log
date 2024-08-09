@@ -1908,3 +1908,2031 @@ INFO 2024-08-07 21:56:37,303 autoreload 282 139781450577728 /backend/file/utils.
 INFO 2024-08-07 21:56:37,949 autoreload 299 139826536765248 Watching for file changes with StatReloader
 INFO 2024-08-07 21:57:08,895 autoreload 299 139826536765248 /backend/file/utils.py changed, reloading.
 INFO 2024-08-07 21:57:09,537 autoreload 316 140043237066560 Watching for file changes with StatReloader
+INFO 2024-08-08 18:49:00,289 autoreload 7 140051292993344 Watching for file changes with StatReloader
+INFO 2024-08-08 19:50:25,090 autoreload 7 140051292993344 /backend/file/models.py changed, reloading.
+INFO 2024-08-08 19:50:25,921 autoreload 24 140525411718976 Watching for file changes with StatReloader
+INFO 2024-08-08 19:56:38,124 autoreload 24 140525411718976 /backend/file/models.py changed, reloading.
+INFO 2024-08-08 19:56:38,825 autoreload 41 139916632483648 Watching for file changes with StatReloader
+INFO 2024-08-08 19:58:04,802 autoreload 41 139916632483648 /backend/file/models.py changed, reloading.
+INFO 2024-08-08 19:58:05,433 autoreload 58 140371719182144 Watching for file changes with StatReloader
+INFO 2024-08-08 20:01:00,390 autoreload 58 140371719182144 /backend/file/models.py changed, reloading.
+INFO 2024-08-08 20:01:01,008 autoreload 75 140702493300544 Watching for file changes with StatReloader
+INFO 2024-08-08 20:04:42,910 autoreload 75 140702493300544 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 20:04:43,491 autoreload 92 140479045674816 Watching for file changes with StatReloader
+INFO 2024-08-08 20:05:18,350 autoreload 92 140479045674816 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 20:05:19,048 autoreload 109 139708751255360 Watching for file changes with StatReloader
+INFO 2024-08-08 20:05:44,908 autoreload 109 139708751255360 /backend/file/models.py changed, reloading.
+INFO 2024-08-08 20:05:45,503 autoreload 126 140534557411136 Watching for file changes with StatReloader
+INFO 2024-08-08 20:37:46,056 autoreload 126 140534557411136 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 20:37:46,668 autoreload 143 140402225260352 Watching for file changes with StatReloader
+INFO 2024-08-08 20:37:53,814 autoreload 143 140402225260352 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 20:37:54,461 autoreload 145 140124343613248 Watching for file changes with StatReloader
+INFO 2024-08-08 20:47:02,269 autoreload 145 140124343613248 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 20:47:03,003 autoreload 162 139885356148544 Watching for file changes with StatReloader
+INFO 2024-08-08 20:47:21,301 autoreload 162 139885356148544 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 20:47:22,047 autoreload 164 140239227942720 Watching for file changes with StatReloader
+INFO 2024-08-08 20:47:40,676 autoreload 164 140239227942720 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 20:47:41,315 autoreload 181 140153926567744 Watching for file changes with StatReloader
+INFO 2024-08-08 20:50:49,810 autoreload 181 140153926567744 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 20:50:50,450 autoreload 198 139843563415360 Watching for file changes with StatReloader
+INFO 2024-08-08 20:59:40,045 autoreload 198 139843563415360 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 20:59:40,645 autoreload 215 139854168430400 Watching for file changes with StatReloader
+INFO 2024-08-08 21:07:46,322 autoreload 215 139854168430400 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:07:46,929 autoreload 232 140414898997056 Watching for file changes with StatReloader
+INFO 2024-08-08 21:13:52,290 autoreload 232 140414898997056 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:13:52,926 autoreload 249 140427035359040 Watching for file changes with StatReloader
+INFO 2024-08-08 21:14:23,874 autoreload 249 140427035359040 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:14:24,511 autoreload 266 139732381599552 Watching for file changes with StatReloader
+INFO 2024-08-08 21:15:24,332 autoreload 266 139732381599552 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:15:24,930 autoreload 283 140683305862976 Watching for file changes with StatReloader
+INFO 2024-08-08 21:35:31,688 autoreload 283 140683305862976 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:35:32,476 autoreload 300 140168588584768 Watching for file changes with StatReloader
+INFO 2024-08-08 21:36:35,870 autoreload 300 140168588584768 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:36:36,722 autoreload 317 140706331612992 Watching for file changes with StatReloader
+INFO 2024-08-08 21:37:39,168 autoreload 317 140706331612992 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:37:40,053 autoreload 334 139788697564992 Watching for file changes with StatReloader
+INFO 2024-08-08 21:38:39,495 autoreload 334 139788697564992 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:38:40,272 autoreload 351 140493243443008 Watching for file changes with StatReloader
+INFO 2024-08-08 21:42:16,154 autoreload 351 140493243443008 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:42:16,987 autoreload 368 139624116819776 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:42:26,995 log 368 139623249934080 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: table files has no column named current_year
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 21, in post
+    file_data = serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/backend/file/serializers.py", line 27, in create
+    file_instance = File.objects.create(**validated_data)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/base.py", line 814, in save
+    self.save_base(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/base.py", line 877, in save_base
+    updated = self._save_table(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: table files has no column named current_year
+INFO 2024-08-08 21:42:52,131 autoreload 368 139624116819776 /backend/file/models.py changed, reloading.
+INFO 2024-08-08 21:42:53,142 autoreload 386 139989259704128 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:42:55,831 log 386 139988392818432 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 25, in post
+    read_file = ReadingExcelFile(file_data.get('file_path', None))
+  File "/backend/file/utils.py", line 14, in __init__
+    self.month_df = self.master_sheet.parse('month_df')
+  File "/usr/local/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 1616, in parse
+    return self._reader.parse(
+  File "/usr/local/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 773, in parse
+    sheet = self.get_sheet_by_name(asheetname)
+  File "/usr/local/lib/python3.10/site-packages/pandas/io/excel/_openpyxl.py", line 582, in get_sheet_by_name
+    self.raise_if_bad_sheet_by_name(name)
+  File "/usr/local/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 624, in raise_if_bad_sheet_by_name
+    raise ValueError(f"Worksheet named '{name}' not found")
+ValueError: Worksheet named 'month_df' not found
+INFO 2024-08-08 21:43:06,967 autoreload 386 139989259704128 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:43:07,653 autoreload 404 140457162876736 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:43:09,807 log 404 140456295991040 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 28, in post
+    df = read_file.remove_nan_row(sheet_names)
+  File "/backend/file/utils.py", line 50, in remove_nan_row
+    df.drop(df[df.isna().all(axis=1)].index)
+AttributeError: 'dict' object has no attribute 'drop'
+INFO 2024-08-08 21:44:27,454 autoreload 404 140457162876736 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:44:28,277 autoreload 422 139929134950208 Watching for file changes with StatReloader
+INFO 2024-08-08 21:44:34,784 autoreload 422 139929134950208 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:44:35,539 autoreload 439 140071662950208 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:44:38,255 log 439 140070796080896 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 28, in post
+    df = read_file.remove_nan_row(sheet_names)
+  File "/backend/file/utils.py", line 51, in remove_nan_row
+    df.drop(df[df.isna().all(axis=1)].index)
+AttributeError: 'dict' object has no attribute 'drop'
+INFO 2024-08-08 21:46:54,591 autoreload 439 140071662950208 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:46:55,295 autoreload 457 140697018251072 Watching for file changes with StatReloader
+INFO 2024-08-08 21:47:20,094 autoreload 457 140697018251072 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:47:20,949 autoreload 474 139886201567040 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:47:30,542 log 474 139885334697728 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 30, in post
+    df = read_file.extract_file_info(df)
+  File "/backend/file/utils.py", line 56, in extract_file_info
+    month, year = self.extract_month_year(file_info)
+  File "/backend/file/utils.py", line 22, in extract_month_year
+    matches = re.findall(pattern, text)
+  File "/usr/local/lib/python3.10/re.py", line 240, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+INFO 2024-08-08 21:47:56,119 autoreload 474 139886201567040 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:47:56,945 autoreload 492 140372780484416 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:47:58,127 log 492 140371914647296 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 30, in post
+    df = read_file.extract_file_info(df)
+  File "/backend/file/utils.py", line 56, in extract_file_info
+    month, year = self.extract_month_year(file_info)
+  File "/backend/file/utils.py", line 22, in extract_month_year
+    matches = re.findall(pattern, text)
+  File "/usr/local/lib/python3.10/re.py", line 240, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+INFO 2024-08-08 21:48:17,718 autoreload 492 140372780484416 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:48:18,687 autoreload 510 140544508716864 Watching for file changes with StatReloader
+INFO 2024-08-08 21:48:24,167 autoreload 510 140544508716864 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:48:25,046 autoreload 527 139801990031168 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:48:26,608 log 527 139801123145472 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 31, in post
+    df = read_file.extract_file_info(df)
+  File "/backend/file/utils.py", line 55, in extract_file_info
+    month, year = self.extract_month_year(file_info)
+  File "/backend/file/utils.py", line 22, in extract_month_year
+    matches = re.findall(pattern, text)
+  File "/usr/local/lib/python3.10/re.py", line 240, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+INFO 2024-08-08 21:49:27,772 autoreload 527 139801990031168 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:49:28,629 autoreload 545 140293478872896 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:49:30,142 log 545 140292613043968 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 31, in post
+    df = read_file.extract_file_info(df)
+  File "/backend/file/utils.py", line 56, in extract_file_info
+    month, year = self.extract_month_year(file_info)
+  File "/backend/file/utils.py", line 22, in extract_month_year
+    matches = re.findall(pattern, text)
+  File "/usr/local/lib/python3.10/re.py", line 240, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+INFO 2024-08-08 21:49:58,787 autoreload 545 140293478872896 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:49:59,616 autoreload 563 140648923113280 Watching for file changes with StatReloader
+INFO 2024-08-08 21:50:20,355 autoreload 563 140648923113280 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:50:21,224 autoreload 580 139767551416128 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:50:25,752 log 580 139766684538624 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    df = read_file.extract_file_info(df)
+  File "/backend/file/utils.py", line 56, in extract_file_info
+    month, year = self.extract_month_year(file_info)
+  File "/backend/file/utils.py", line 22, in extract_month_year
+    matches = re.findall(pattern, text)
+  File "/usr/local/lib/python3.10/re.py", line 240, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+INFO 2024-08-08 21:51:11,810 autoreload 580 139767551416128 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:51:12,602 autoreload 598 140442259298112 Watching for file changes with StatReloader
+INFO 2024-08-08 21:51:20,124 autoreload 598 140442259298112 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:51:20,852 autoreload 615 139652566894400 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:51:22,513 log 615 139651700020992 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    df = read_file.extract_file_info(df)
+  File "/backend/file/utils.py", line 57, in extract_file_info
+    month, year = self.extract_month_year(file_info)
+  File "/backend/file/utils.py", line 22, in extract_month_year
+    matches = re.findall(pattern, text)
+  File "/usr/local/lib/python3.10/re.py", line 240, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+INFO 2024-08-08 21:51:38,640 autoreload 615 139652566894400 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:51:39,470 autoreload 633 140042132551488 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:51:42,930 log 633 140041265682176 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    df = read_file.extract_file_info(df)
+  File "/backend/file/utils.py", line 58, in extract_file_info
+    month, year = self.extract_month_year(file_info)
+  File "/backend/file/utils.py", line 22, in extract_month_year
+    matches = re.findall(pattern, text)
+  File "/usr/local/lib/python3.10/re.py", line 240, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+INFO 2024-08-08 21:52:12,552 autoreload 633 140042132551488 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:52:13,268 autoreload 651 139955804428096 Watching for file changes with StatReloader
+INFO 2024-08-08 21:52:17,730 autoreload 651 139955804428096 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:52:18,598 autoreload 668 140716183205696 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:52:20,526 log 668 140715316336384 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    df = read_file.extract_file_info(df)
+  File "/backend/file/utils.py", line 58, in extract_file_info
+    month, year = self.extract_month_year(file_info)
+  File "/backend/file/utils.py", line 22, in extract_month_year
+    matches = re.findall(pattern, text)
+  File "/usr/local/lib/python3.10/re.py", line 240, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+INFO 2024-08-08 21:52:41,468 autoreload 668 140716183205696 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:52:42,292 autoreload 686 139624107005760 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:52:45,117 log 686 139623240128256 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    df = read_file.extract_file_info(df)
+  File "/backend/file/utils.py", line 59, in extract_file_info
+    month, year = self.extract_month_year(file_info)
+  File "/backend/file/utils.py", line 22, in extract_month_year
+    matches = re.findall(pattern, text)
+  File "/usr/local/lib/python3.10/re.py", line 240, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+INFO 2024-08-08 21:53:26,602 autoreload 686 139624107005760 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:53:27,356 autoreload 704 140529483421504 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:53:28,925 log 704 140528617584384 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    df = read_file.extract_file_info(df)
+  File "/backend/file/utils.py", line 59, in extract_file_info
+    month, year = self.extract_month_year(file_info)
+  File "/backend/file/utils.py", line 22, in extract_month_year
+    matches = re.findall(pattern, text)
+  File "/usr/local/lib/python3.10/re.py", line 240, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+INFO 2024-08-08 21:54:00,594 autoreload 704 140529483421504 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:54:01,469 autoreload 722 140587346605888 Watching for file changes with StatReloader
+INFO 2024-08-08 21:54:05,919 autoreload 722 140587346605888 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:54:06,669 autoreload 739 139823753496384 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:54:08,837 log 739 139822886627072 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 30, in post
+    df = read_file.extract_file_info(df)
+  File "/backend/file/utils.py", line 57, in extract_file_info
+    month, year = self.extract_month_year(file_info)
+  File "/backend/file/utils.py", line 22, in extract_month_year
+    matches = re.findall(pattern, text)
+  File "/usr/local/lib/python3.10/re.py", line 240, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+INFO 2024-08-08 21:54:30,569 autoreload 739 139823753496384 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:54:31,526 autoreload 757 139868336744256 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:54:33,273 log 757 139867469870848 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 31, in post
+    fixing_columns = read_file.fixing_columns(df)
+TypeError: ReadingExcelFile.fixing_columns() takes 1 positional argument but 2 were given
+INFO 2024-08-08 21:55:08,805 autoreload 757 139868336744256 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 21:55:09,753 autoreload 775 139669791295296 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:55:12,903 log 775 139668924425984 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 31, in post
+    fixing_columns = read_file.fixing_columns(df)
+  File "/backend/file/utils.py", line 62, in fixing_columns
+    df.rename(columns={df.columns[0]: df.iloc[0][0]}, inplace=True)
+AttributeError: 'dict' object has no attribute 'rename'
+INFO 2024-08-08 21:55:39,777 autoreload 775 139669791295296 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:55:40,418 autoreload 793 139905677006656 Watching for file changes with StatReloader
+INFO 2024-08-08 21:55:44,872 autoreload 793 139905677006656 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 21:55:45,545 autoreload 810 139962240894784 Watching for file changes with StatReloader
+ERROR 2024-08-08 21:55:47,844 log 810 139961374017280 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 31, in post
+    fixing_columns = read_file.fixing_columns(df)
+  File "/backend/file/utils.py", line 63, in fixing_columns
+    df = df.drop(index=0).reset_index(drop=True)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 5581, in drop
+    return super().drop(
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/generic.py", line 4788, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/generic.py", line 4830, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 7070, in drop
+    raise KeyError(f"{labels[mask].tolist()} not found in axis")
+KeyError: '[0] not found in axis'
+INFO 2024-08-08 22:00:48,048 autoreload 810 139962240894784 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:00:49,030 autoreload 828 140100956632896 Watching for file changes with StatReloader
+ERROR 2024-08-08 22:00:53,232 log 828 140100089763584 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'General Insurers'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    cleaning_file = read_file.cleaning_file(fixing_columns)
+  File "/backend/file/utils.py", line 66, in cleaning_file
+    df = df[~df['General Insurers'].str.contains('Previous', case=False, na=False)]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'General Insurers'
+INFO 2024-08-08 22:01:34,304 autoreload 828 140100956632896 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:01:35,006 autoreload 846 140032716588864 Watching for file changes with StatReloader
+INFO 2024-08-08 22:01:39,508 autoreload 846 140032716588864 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:01:40,285 autoreload 863 140072461514560 Watching for file changes with StatReloader
+ERROR 2024-08-08 22:01:42,575 log 863 140071594628864 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'General Insurers'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    cleaning_file = read_file.cleaning_file(fixing_columns)
+  File "/backend/file/utils.py", line 65, in cleaning_file
+    df = df[~df['General Insurers'].str.contains('Previous', case=False, na=False)]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'General Insurers'
+INFO 2024-08-08 22:01:59,082 autoreload 863 140072461514560 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:01:59,903 autoreload 881 140688521541440 Watching for file changes with StatReloader
+ERROR 2024-08-08 22:02:01,389 log 881 140687655720704 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'General Insurers'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    cleaning_file = read_file.cleaning_file(fixing_columns)
+  File "/backend/file/utils.py", line 65, in cleaning_file
+    df = df[~df['General Insurers'].str.contains('Previous', case=False, na=False)]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'General Insurers'
+INFO 2024-08-08 22:02:51,369 autoreload 881 140688521541440 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:02:52,202 autoreload 899 140288059684672 Watching for file changes with StatReloader
+INFO 2024-08-08 22:03:06,834 autoreload 899 140288059684672 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:03:07,571 autoreload 916 140094011344704 Watching for file changes with StatReloader
+ERROR 2024-08-08 22:03:09,425 log 916 140093144471296 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 29, in post
+    df = read_file.remove_nan_row(sheet)
+  File "/backend/file/utils.py", line 50, in remove_nan_row
+    df.drop(df[df.isna().all(axis=1)].index, inplace=True).reset_index(drop=True)
+AttributeError: 'NoneType' object has no attribute 'reset_index'
+INFO 2024-08-08 22:03:43,611 autoreload 916 140094011344704 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:03:44,489 autoreload 934 140517854385984 Watching for file changes with StatReloader
+ERROR 2024-08-08 22:03:47,448 log 934 140516987508480 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'General Insurers'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    cleaning_file = read_file.cleaning_file(fixing_columns)
+  File "/backend/file/utils.py", line 66, in cleaning_file
+    df = df[~df['General Insurers'].str.contains('Previous', case=False, na=False)]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'General Insurers'
+INFO 2024-08-08 22:03:58,178 autoreload 934 140517854385984 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:03:59,019 autoreload 952 139684877190976 Watching for file changes with StatReloader
+ERROR 2024-08-08 22:04:03,296 log 952 139684010309376 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'General Insurers'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    cleaning_file = read_file.cleaning_file(fixing_columns)
+  File "/backend/file/utils.py", line 66, in cleaning_file
+    df = df[~df['General Insurers'].str.contains('Previous', case=False, na=False)]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'General Insurers'
+INFO 2024-08-08 22:06:00,587 autoreload 952 139684877190976 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:06:01,435 autoreload 970 139851481990976 Watching for file changes with StatReloader
+ERROR 2024-08-08 22:06:33,760 log 970 139850615105280 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'General Insurers'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    cleaning_file = read_file.cleaning_file(fixing_columns)
+  File "/backend/file/utils.py", line 66, in cleaning_file
+    df = df[~df['General Insurers'].str.contains('Previous', case=False, na=False)]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'General Insurers'
+INFO 2024-08-08 22:09:56,896 autoreload 970 139851481990976 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:09:57,766 autoreload 988 140631772944192 Watching for file changes with StatReloader
+INFO 2024-08-08 22:13:22,674 autoreload 988 140631772944192 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:13:23,505 autoreload 1005 139800369116992 Watching for file changes with StatReloader
+INFO 2024-08-08 22:20:15,469 autoreload 1005 139800369116992 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:20:16,231 autoreload 1022 140659066292032 Watching for file changes with StatReloader
+INFO 2024-08-08 22:20:48,260 autoreload 1022 140659066292032 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 22:20:48,986 autoreload 1040 139801314891584 Watching for file changes with StatReloader
+INFO 2024-08-08 22:21:24,125 autoreload 1040 139801314891584 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 22:21:24,932 autoreload 1058 140661252523840 Watching for file changes with StatReloader
+ERROR 2024-08-08 22:22:15,434 log 1058 140660385654528 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 25, in post
+    read_file = ReadingExcelFile(file_data.get('file_path', None))
+  File "/backend/file/utils.py", line 9, in __init__
+    self.master_file = pd.ExcelFile('/mnt/master.xlsx')
+  File "/usr/local/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 1550, in __init__
+    ext = inspect_excel_format(
+  File "/usr/local/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 1402, in inspect_excel_format
+    with get_handle(
+  File "/usr/local/lib/python3.10/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/master.xlsx'
+INFO 2024-08-08 22:23:08,174 autoreload 1058 140661252523840 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 22:23:09,043 autoreload 1076 139680712292160 Watching for file changes with StatReloader
+INFO 2024-08-08 22:28:59,328 autoreload 1076 139680712292160 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:28:59,983 autoreload 1093 140529483298624 Watching for file changes with StatReloader
+INFO 2024-08-08 22:29:43,666 autoreload 7 140350434019136 Watching for file changes with StatReloader
+INFO 2024-08-08 22:30:06,856 autoreload 7 139834446362432 Watching for file changes with StatReloader
+INFO 2024-08-08 22:30:39,556 autoreload 7 139633251759936 Watching for file changes with StatReloader
+INFO 2024-08-08 22:31:00,312 autoreload 7 139633251759936 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:31:00,924 autoreload 24 139720206108480 Watching for file changes with StatReloader
+INFO 2024-08-08 22:31:07,061 autoreload 24 139720206108480 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:31:07,628 autoreload 26 140426500212544 Watching for file changes with StatReloader
+INFO 2024-08-08 22:31:59,012 autoreload 26 140426500212544 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:31:59,736 autoreload 43 140533649909568 Watching for file changes with StatReloader
+INFO 2024-08-08 22:34:47,354 autoreload 43 140533649909568 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:34:47,985 autoreload 60 139640616404800 Watching for file changes with StatReloader
+INFO 2024-08-08 22:36:16,863 autoreload 60 139640616404800 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 22:36:17,634 autoreload 77 140009244153664 Watching for file changes with StatReloader
+INFO 2024-08-08 22:37:42,671 autoreload 77 140009244153664 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 22:37:43,317 autoreload 95 140375264601920 Watching for file changes with StatReloader
+INFO 2024-08-08 22:37:58,090 autoreload 95 140375264601920 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 22:37:58,791 autoreload 112 139812063139648 Watching for file changes with StatReloader
+INFO 2024-08-08 22:38:20,734 autoreload 112 139812063139648 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 22:38:21,388 autoreload 130 140668197861184 Watching for file changes with StatReloader
+ERROR 2024-08-08 22:38:22,254 log 130 140667327846144 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 35, in post
+    temp.append(list_of_dataframs.to_dict('records'))
+AttributeError: 'list' object has no attribute 'to_dict'
+INFO 2024-08-08 22:38:34,093 autoreload 130 140668197861184 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 22:38:34,718 autoreload 148 140705186215744 Watching for file changes with StatReloader
+INFO 2024-08-08 22:44:15,202 autoreload 148 140705186215744 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 22:44:15,963 autoreload 166 139814906210112 Watching for file changes with StatReloader
+INFO 2024-08-08 22:47:04,277 autoreload 166 139814906210112 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 22:47:05,029 autoreload 184 140304115500864 Watching for file changes with StatReloader
+INFO 2024-08-08 23:00:21,663 autoreload 184 140304115500864 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:00:22,322 autoreload 201 139775747065664 Watching for file changes with StatReloader
+INFO 2024-08-08 23:00:39,095 autoreload 201 139775747065664 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 23:00:39,848 autoreload 218 140184928986944 Watching for file changes with StatReloader
+INFO 2024-08-08 23:00:43,531 autoreload 218 140184928986944 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 23:00:44,184 autoreload 235 140209650542400 Watching for file changes with StatReloader
+INFO 2024-08-08 23:00:58,209 autoreload 235 140209650542400 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:00:58,901 autoreload 253 139624575166272 Watching for file changes with StatReloader
+INFO 2024-08-08 23:02:39,491 autoreload 253 139624575166272 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:02:40,140 autoreload 271 140480927827776 Watching for file changes with StatReloader
+INFO 2024-08-08 23:02:55,818 autoreload 271 140480927827776 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:02:56,588 autoreload 288 140331496683328 Watching for file changes with StatReloader
+INFO 2024-08-08 23:06:49,179 autoreload 288 140331496683328 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:06:49,898 autoreload 306 140297999406912 Watching for file changes with StatReloader
+INFO 2024-08-08 23:07:15,783 autoreload 306 140297999406912 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:07:16,498 autoreload 324 140040163354432 Watching for file changes with StatReloader
+INFO 2024-08-08 23:10:17,319 autoreload 324 140040163354432 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:10:18,136 autoreload 342 139824943216448 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:10:25,252 log 342 139824072148736 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs)
+  File "/backend/file/utils.py", line 81, in extract_data
+    df = df[self.select_row]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['All Other miscellaneous', 'Aviation ', 'Credit Guarantee', 'Crop Insurance', 'Engineering', 'Fire', 'Liability', 'Marine Cargo', 'Marine Hull', 'Motor OD', 'Motor TP', 'P.A.'] not in index"
+INFO 2024-08-08 23:11:35,858 autoreload 342 139824943216448 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:11:36,538 autoreload 360 140667463694144 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:11:40,453 log 360 140666592630528 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs)
+  File "/backend/file/utils.py", line 81, in extract_data
+    if hasattr(self, 'select_row') and self.select_row in df.index:
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 5358, in __contains__
+    hash(key)
+TypeError: unhashable type: 'list'
+INFO 2024-08-08 23:14:36,269 autoreload 360 140667463694144 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:14:36,980 autoreload 378 140187220543296 Watching for file changes with StatReloader
+INFO 2024-08-08 23:14:50,726 autoreload 378 140187220543296 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:14:51,444 autoreload 395 140136014141248 Watching for file changes with StatReloader
+INFO 2024-08-08 23:15:23,541 autoreload 395 140136014141248 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:15:24,198 autoreload 413 139621220947776 Watching for file changes with StatReloader
+INFO 2024-08-08 23:16:21,756 autoreload 413 139621220947776 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:16:22,382 autoreload 431 139844810364736 Watching for file changes with StatReloader
+INFO 2024-08-08 23:16:29,954 autoreload 431 139844810364736 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:16:30,655 autoreload 448 139716607158080 Watching for file changes with StatReloader
+INFO 2024-08-08 23:16:41,451 autoreload 448 139716607158080 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:16:42,115 autoreload 466 140009492510528 Watching for file changes with StatReloader
+INFO 2024-08-08 23:17:02,135 autoreload 466 140009492510528 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:17:02,834 autoreload 484 139925523654464 Watching for file changes with StatReloader
+INFO 2024-08-08 23:17:20,597 autoreload 484 139925523654464 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:17:21,210 autoreload 502 140042532230976 Watching for file changes with StatReloader
+INFO 2024-08-08 23:17:36,963 autoreload 502 140042532230976 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:17:37,670 autoreload 520 140112710891328 Watching for file changes with StatReloader
+INFO 2024-08-08 23:17:54,419 autoreload 520 140112710891328 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:17:55,110 autoreload 538 140518102775616 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:17:59,211 log 538 140517231707904 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs)
+  File "/backend/file/utils.py", line 86, in extract_data
+    intersection_list.insert('Product')
+TypeError: insert expected 2 arguments, got 1
+INFO 2024-08-08 23:18:15,973 autoreload 538 140518102775616 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:18:16,737 autoreload 556 140708867393344 Watching for file changes with StatReloader
+INFO 2024-08-08 23:19:10,076 autoreload 556 140708867393344 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:19:10,854 autoreload 574 139845565851456 Watching for file changes with StatReloader
+INFO 2024-08-08 23:19:26,630 autoreload 574 139845565851456 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:19:27,265 autoreload 592 140054383597376 Watching for file changes with StatReloader
+INFO 2024-08-08 23:19:41,983 autoreload 592 140054383597376 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:19:42,647 autoreload 610 139635735373632 Watching for file changes with StatReloader
+INFO 2024-08-08 23:20:22,931 autoreload 610 139635735373632 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:20:23,569 autoreload 628 140284854347584 Watching for file changes with StatReloader
+INFO 2024-08-08 23:20:58,628 autoreload 628 140284854347584 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:20:59,279 autoreload 646 140150701840192 Watching for file changes with StatReloader
+INFO 2024-08-08 23:21:18,015 autoreload 646 140150701840192 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:21:18,744 autoreload 664 140025409464128 Watching for file changes with StatReloader
+INFO 2024-08-08 23:21:37,626 autoreload 664 140025409464128 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:21:38,270 autoreload 682 140294932117312 Watching for file changes with StatReloader
+INFO 2024-08-08 23:21:53,205 autoreload 682 140294932117312 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:21:53,862 autoreload 700 140604390254400 Watching for file changes with StatReloader
+INFO 2024-08-08 23:22:09,601 autoreload 700 140604390254400 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:22:10,229 autoreload 718 140430061356864 Watching for file changes with StatReloader
+INFO 2024-08-08 23:22:40,196 autoreload 718 140430061356864 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:22:40,911 autoreload 736 140063109691200 Watching for file changes with StatReloader
+INFO 2024-08-08 23:23:02,877 autoreload 736 140063109691200 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:23:03,528 autoreload 754 139957695915840 Watching for file changes with StatReloader
+INFO 2024-08-08 23:23:20,446 autoreload 754 139957695915840 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:23:21,077 autoreload 772 139634905392960 Watching for file changes with StatReloader
+INFO 2024-08-08 23:23:46,805 autoreload 7 139760300672832 Watching for file changes with StatReloader
+INFO 2024-08-08 23:25:14,824 autoreload 7 139760300672832 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:25:15,445 autoreload 25 139784740271936 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:25:22,963 log 25 139783869208320 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    fixing_columns = read_file.fixing_columns(df)
+  File "/backend/file/utils.py", line 70, in fixing_columns
+    df.rename(columns={df.columns.loc[0]: df.iloc[0][0]}, inplace=True)
+AttributeError: 'Index' object has no attribute 'loc'
+INFO 2024-08-08 23:25:29,184 autoreload 25 139784740271936 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:25:29,856 autoreload 43 140713264596800 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:25:32,099 log 43 140712393529088 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    fixing_columns = read_file.fixing_columns(df)
+  File "/backend/file/utils.py", line 70, in fixing_columns
+    df.rename(columns={df.columns.iloc[0]: df.iloc[0][0]}, inplace=True)
+AttributeError: 'Index' object has no attribute 'iloc'
+INFO 2024-08-08 23:25:45,590 autoreload 43 140713264596800 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:25:46,469 autoreload 61 139664899761984 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:25:48,594 log 61 139664028681984 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    fixing_columns = read_file.fixing_columns(df)
+  File "/backend/file/utils.py", line 71, in fixing_columns
+    df.rename(columns={df.columns.iloc[0]: df.iloc[0][0]}, inplace=True)
+AttributeError: 'Index' object has no attribute 'iloc'
+INFO 2024-08-08 23:26:21,558 autoreload 61 139664899761984 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:26:22,191 autoreload 79 139806638040896 Watching for file changes with StatReloader
+INFO 2024-08-08 23:26:32,834 autoreload 79 139806638040896 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:26:33,545 autoreload 96 140340404393792 Watching for file changes with StatReloader
+INFO 2024-08-08 23:26:37,150 autoreload 96 140340404393792 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:26:37,806 autoreload 113 140087988270912 Watching for file changes with StatReloader
+INFO 2024-08-08 23:26:41,929 autoreload 113 140087988270912 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:26:42,505 autoreload 115 140598927812416 Watching for file changes with StatReloader
+INFO 2024-08-08 23:26:55,161 autoreload 115 140598927812416 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:26:55,800 autoreload 132 140259912554304 Watching for file changes with StatReloader
+INFO 2024-08-08 23:26:58,918 autoreload 132 140259912554304 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:26:59,564 autoreload 134 140159455483712 Watching for file changes with StatReloader
+INFO 2024-08-08 23:27:20,433 autoreload 134 140159455483712 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:27:21,171 autoreload 152 139658376595264 Watching for file changes with StatReloader
+INFO 2024-08-08 23:27:53,203 autoreload 152 139658376595264 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:27:53,889 autoreload 169 140111522555712 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:27:57,160 log 169 140110651479808 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 32, in post
+    fixing_columns = read_file.fixing_columns(df)
+  File "/backend/file/utils.py", line 71, in fixing_columns
+    df.rename(columns={df.columns.iloc[0]: df.iloc[0][0]}, inplace=True)
+AttributeError: 'Index' object has no attribute 'iloc'
+INFO 2024-08-08 23:28:03,577 autoreload 169 140111522555712 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:28:04,329 autoreload 187 140221449705280 Watching for file changes with StatReloader
+INFO 2024-08-08 23:28:19,136 autoreload 187 140221449705280 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:28:19,815 autoreload 205 140274087511872 Watching for file changes with StatReloader
+INFO 2024-08-08 23:28:53,963 autoreload 205 140274087511872 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 23:28:54,719 autoreload 223 139956306609984 Watching for file changes with StatReloader
+INFO 2024-08-08 23:30:26,712 autoreload 223 139956306609984 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:30:27,395 autoreload 241 139711916046144 Watching for file changes with StatReloader
+INFO 2024-08-08 23:30:32,096 autoreload 241 139711916046144 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 23:30:32,761 autoreload 258 140170314864448 Watching for file changes with StatReloader
+INFO 2024-08-08 23:31:00,684 autoreload 258 140170314864448 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-08 23:31:01,344 autoreload 276 140667547731776 Watching for file changes with StatReloader
+INFO 2024-08-08 23:31:03,447 autoreload 276 140667547731776 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-08 23:31:04,081 autoreload 278 140526692529984 Watching for file changes with StatReloader
+INFO 2024-08-08 23:31:08,644 autoreload 278 140526692529984 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-08 23:31:09,254 autoreload 295 139968482846528 Watching for file changes with StatReloader
+INFO 2024-08-08 23:31:50,384 autoreload 295 139968482846528 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 23:31:51,033 autoreload 313 140137057175360 Watching for file changes with StatReloader
+INFO 2024-08-08 23:33:02,937 autoreload 313 140137057175360 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 23:33:03,704 autoreload 331 140549684242240 Watching for file changes with StatReloader
+INFO 2024-08-08 23:33:55,856 autoreload 7 140300493694784 Watching for file changes with StatReloader
+INFO 2024-08-08 23:34:34,001 autoreload 7 140300493694784 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 23:34:34,672 autoreload 25 140380839835456 Watching for file changes with StatReloader
+INFO 2024-08-08 23:36:01,936 autoreload 25 140380839835456 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:36:02,562 autoreload 43 140028071974720 Watching for file changes with StatReloader
+INFO 2024-08-08 23:36:09,230 autoreload 43 140028071974720 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:36:09,871 autoreload 60 140592730470208 Watching for file changes with StatReloader
+INFO 2024-08-08 23:37:17,318 autoreload 7 139791614388032 Watching for file changes with StatReloader
+INFO 2024-08-08 23:38:40,724 autoreload 7 140702991251264 Watching for file changes with StatReloader
+INFO 2024-08-08 23:39:40,394 autoreload 7 140702991251264 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 23:39:41,067 autoreload 25 139674644617024 Watching for file changes with StatReloader
+INFO 2024-08-08 23:39:48,637 autoreload 25 139674644617024 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 23:39:49,302 autoreload 42 140080612321088 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:39:54,643 log 42 140079741253376 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 38, in post
+    extract_data.to_excel(f'/mnt/file_2_{len(extract_data)}.xlsx')
+AttributeError: 'bool' object has no attribute 'to_excel'
+INFO 2024-08-08 23:40:14,216 autoreload 42 140080612321088 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:40:14,967 autoreload 60 140146917054272 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:40:17,704 log 60 140146045982464 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 38, in post
+    extract_data.to_excel(f'/mnt/file_2_{len(extract_data)}.xlsx')
+AttributeError: 'bool' object has no attribute 'to_excel'
+INFO 2024-08-08 23:40:22,697 autoreload 60 140146917054272 /backend/file/views.py changed, reloading.
+INFO 2024-08-08 23:40:23,483 autoreload 78 140242553923392 Watching for file changes with StatReloader
+INFO 2024-08-08 23:40:37,211 autoreload 78 140242553923392 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:40:37,837 autoreload 96 140289288468288 Watching for file changes with StatReloader
+INFO 2024-08-08 23:40:43,378 autoreload 96 140289288468288 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:40:44,041 autoreload 113 140478226630464 Watching for file changes with StatReloader
+INFO 2024-08-08 23:41:05,908 autoreload 113 140478226630464 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:41:06,533 autoreload 131 139820014446400 Watching for file changes with StatReloader
+INFO 2024-08-08 23:42:06,045 autoreload 131 139820014446400 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:42:06,682 autoreload 149 139775380469568 Watching for file changes with StatReloader
+INFO 2024-08-08 23:48:02,076 autoreload 149 139775380469568 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:48:02,705 autoreload 167 140480677934912 Watching for file changes with StatReloader
+INFO 2024-08-08 23:48:22,509 autoreload 167 140480677934912 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:48:23,175 autoreload 184 140134497728320 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:48:36,495 log 184 140133626664704 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs)
+  File "/backend/file/utils.py", line 89, in extract_data
+    df['category'] = df['Product'].apply(lambda x: self.master_join_df[self.master_join_df['name'] == x]['category'].values[0])
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/series.py", line 4924, in apply
+    ).apply()
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/apply.py", line 1427, in apply
+    return self.apply_standard()
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/apply.py", line 1507, in apply_standard
+    mapped = obj._map_values(
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/algorithms.py", line 1743, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+  File "lib.pyx", line 2972, in pandas._libs.lib.map_infer
+  File "/backend/file/utils.py", line 89, in <lambda>
+    df['category'] = df['Product'].apply(lambda x: self.master_join_df[self.master_join_df['name'] == x]['category'].values[0])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+INFO 2024-08-08 23:49:07,374 autoreload 184 140134497728320 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:49:08,088 autoreload 202 140176633239360 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:49:10,459 log 202 140175762171648 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs)
+  File "/backend/file/utils.py", line 89, in extract_data
+    df['category'] = df['Product'].apply(lambda x: self.master_join_df[self.master_join_df['name'] == x]['category'])
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 4301, in __setitem__
+    self._set_item_frame_value(key, value)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 4464, in _set_item_frame_value
+    raise ValueError(
+ValueError: Cannot set a DataFrame without columns to the column category
+INFO 2024-08-08 23:49:50,364 autoreload 202 140176633239360 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:49:51,038 autoreload 220 140626040551232 Watching for file changes with StatReloader
+INFO 2024-08-08 23:50:04,742 autoreload 220 140626040551232 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:50:05,392 autoreload 237 140695128237888 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:50:10,033 log 237 140694257161984 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs)
+  File "/backend/file/utils.py", line 89, in extract_data
+    df['category'] = df['Product'].apply(lambda x: self.master_join_df[self.master_join_df['insurer'] == x]['category'])
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 4301, in __setitem__
+    self._set_item_frame_value(key, value)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 4459, in _set_item_frame_value
+    raise ValueError(
+ValueError: Cannot set a DataFrame with multiple columns to the single column category
+INFO 2024-08-08 23:50:51,826 autoreload 237 140695128237888 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:50:52,443 autoreload 255 140703530321728 Watching for file changes with StatReloader
+INFO 2024-08-08 23:51:01,020 autoreload 255 140703530321728 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:51:01,738 autoreload 272 140190275503936 Watching for file changes with StatReloader
+INFO 2024-08-08 23:51:22,037 autoreload 272 140190275503936 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:51:22,689 autoreload 290 139861099968320 Watching for file changes with StatReloader
+INFO 2024-08-08 23:51:34,379 autoreload 290 139861099968320 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:51:35,027 autoreload 308 140273363154752 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:51:37,824 log 308 140272492091136 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 2606, in pandas._libs.hashtable.Int64HashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 2630, in pandas._libs.hashtable.Int64HashTable.get_item
+KeyError: 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs)
+  File "/backend/file/utils.py", line 90, in extract_data
+    df['clubbed_name'] = df['Product'].apply(lambda x: self.master_join_df[self.master_join_df['insurer'] == x]['clubbed_name'][0])
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/series.py", line 4924, in apply
+    ).apply()
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/apply.py", line 1427, in apply
+    return self.apply_standard()
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/apply.py", line 1507, in apply_standard
+    mapped = obj._map_values(
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/algorithms.py", line 1743, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+  File "lib.pyx", line 2972, in pandas._libs.lib.map_infer
+  File "/backend/file/utils.py", line 90, in <lambda>
+    df['clubbed_name'] = df['Product'].apply(lambda x: self.master_join_df[self.master_join_df['insurer'] == x]['clubbed_name'][0])
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/series.py", line 1121, in __getitem__
+    return self._get_value(key)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 0
+INFO 2024-08-08 23:51:50,785 autoreload 308 140273363154752 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:51:51,422 autoreload 326 139960361629504 Watching for file changes with StatReloader
+INFO 2024-08-08 23:52:01,094 autoreload 326 139960361629504 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:52:01,765 autoreload 344 139951568217920 Watching for file changes with StatReloader
+ERROR 2024-08-08 23:52:04,344 log 344 139950697142016 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 2606, in pandas._libs.hashtable.Int64HashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 2630, in pandas._libs.hashtable.Int64HashTable.get_item
+KeyError: 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs)
+  File "/backend/file/utils.py", line 90, in extract_data
+    df['clubbed_name'] = df['Product'].apply(lambda x: self.master_join_df[self.master_join_df['insurer'] == x]['clubbed_name'].values)[0]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/series.py", line 1121, in __getitem__
+    return self._get_value(key)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 0
+INFO 2024-08-08 23:52:14,610 autoreload 344 139951568217920 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:52:15,295 autoreload 362 140313200023360 Watching for file changes with StatReloader
+INFO 2024-08-08 23:54:48,915 autoreload 362 140313200023360 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:54:49,535 autoreload 380 140054685689664 Watching for file changes with StatReloader
+INFO 2024-08-08 23:56:21,852 autoreload 380 140054685689664 /backend/file/utils.py changed, reloading.
+INFO 2024-08-08 23:56:22,552 autoreload 397 140492616644416 Watching for file changes with StatReloader
+INFO 2024-08-09 00:05:42,535 autoreload 397 140492616644416 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:05:43,186 autoreload 415 140429854009152 Watching for file changes with StatReloader
+INFO 2024-08-09 00:05:59,976 autoreload 415 140429854009152 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:06:00,697 autoreload 433 139786903799616 Watching for file changes with StatReloader
+INFO 2024-08-09 00:06:29,639 autoreload 433 139786903799616 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:06:30,332 autoreload 450 140484919183168 Watching for file changes with StatReloader
+INFO 2024-08-09 00:07:25,734 autoreload 450 140484919183168 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:07:26,437 autoreload 468 140279166728000 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:07:37,499 log 468 140278295664384 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs)
+  File "/backend/file/utils.py", line 83, in extract_data
+    intersection_columns = self.select_row.intersection(dataframe.columns)
+AttributeError: 'list' object has no attribute 'intersection'
+INFO 2024-08-09 00:08:21,995 autoreload 468 140279166728000 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:08:22,600 autoreload 486 140268718270272 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:08:24,846 log 486 140267847206656 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs)
+  File "/backend/file/utils.py", line 84, in extract_data
+    intersection_columns.add('Product')
+AttributeError: 'list' object has no attribute 'add'
+INFO 2024-08-09 00:08:42,433 autoreload 486 140268718270272 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:08:43,238 autoreload 504 140198469867328 Watching for file changes with StatReloader
+INFO 2024-08-09 00:11:09,296 autoreload 504 140198469867328 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:11:10,026 autoreload 522 140521297160000 Watching for file changes with StatReloader
+INFO 2024-08-09 00:11:20,756 autoreload 522 140521297160000 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:11:21,403 autoreload 539 140118847928128 Watching for file changes with StatReloader
+INFO 2024-08-09 00:12:32,934 autoreload 539 140118847928128 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:12:33,562 autoreload 556 140648898160448 Watching for file changes with StatReloader
+INFO 2024-08-09 00:13:57,748 autoreload 556 140648898160448 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:13:58,484 autoreload 573 140635411736384 Watching for file changes with StatReloader
+INFO 2024-08-09 00:14:32,620 autoreload 573 140635411736384 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:14:33,266 autoreload 590 140387406440256 Watching for file changes with StatReloader
+INFO 2024-08-09 00:15:45,945 autoreload 590 140387406440256 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:15:46,564 autoreload 607 140327664097088 Watching for file changes with StatReloader
+INFO 2024-08-09 00:15:57,169 autoreload 607 140327664097088 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:15:57,867 autoreload 624 139825670264640 Watching for file changes with StatReloader
+INFO 2024-08-09 00:16:05,492 autoreload 624 139825670264640 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:16:06,126 autoreload 641 140514952406848 Watching for file changes with StatReloader
+INFO 2024-08-09 00:18:30,026 autoreload 641 140514952406848 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:18:30,788 autoreload 658 140492356486976 Watching for file changes with StatReloader
+INFO 2024-08-09 00:19:22,315 autoreload 658 140492356486976 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:19:23,144 autoreload 675 140560404412224 Watching for file changes with StatReloader
+INFO 2024-08-09 00:19:31,782 autoreload 675 140560404412224 /backend/file/models.py changed, reloading.
+INFO 2024-08-09 00:19:32,490 autoreload 692 140490008749888 Watching for file changes with StatReloader
+INFO 2024-08-09 00:20:03,494 autoreload 692 140490008749888 /backend/file/models.py changed, reloading.
+INFO 2024-08-09 00:20:04,141 autoreload 709 139812655155008 Watching for file changes with StatReloader
+INFO 2024-08-09 00:20:32,142 autoreload 709 139812655155008 /backend/file/models.py changed, reloading.
+INFO 2024-08-09 00:20:32,750 autoreload 726 140492112869184 Watching for file changes with StatReloader
+INFO 2024-08-09 00:20:50,486 autoreload 726 140492112869184 /backend/file/models.py changed, reloading.
+INFO 2024-08-09 00:20:51,125 autoreload 743 139835644098368 Watching for file changes with StatReloader
+INFO 2024-08-09 00:21:50,775 autoreload 743 139835644098368 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:21:51,415 autoreload 760 140172701562688 Watching for file changes with StatReloader
+INFO 2024-08-09 00:21:55,986 autoreload 760 140172701562688 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:21:56,612 autoreload 777 140479185872704 Watching for file changes with StatReloader
+INFO 2024-08-09 00:22:14,330 autoreload 777 140479185872704 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:22:14,986 autoreload 794 140563545909056 Watching for file changes with StatReloader
+INFO 2024-08-09 00:22:32,818 autoreload 794 140563545909056 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:22:33,430 autoreload 811 140511916783424 Watching for file changes with StatReloader
+INFO 2024-08-09 00:24:19,680 autoreload 811 140511916783424 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-09 00:24:20,376 autoreload 828 140432782673728 Watching for file changes with StatReloader
+INFO 2024-08-09 00:24:50,384 autoreload 828 140432782673728 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-09 00:24:51,056 autoreload 845 140027235804992 Watching for file changes with StatReloader
+INFO 2024-08-09 00:25:52,486 autoreload 845 140027235804992 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:25:53,119 autoreload 862 140555534165824 Watching for file changes with StatReloader
+INFO 2024-08-09 00:26:43,489 autoreload 862 140555534165824 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:26:44,207 autoreload 879 140292557641536 Watching for file changes with StatReloader
+INFO 2024-08-09 00:27:29,441 autoreload 879 140292557641536 /backend/file/models.py changed, reloading.
+INFO 2024-08-09 00:27:30,092 autoreload 896 140169434470208 Watching for file changes with StatReloader
+INFO 2024-08-09 00:28:16,243 autoreload 896 140169434470208 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:28:16,905 autoreload 913 139858844620608 Watching for file changes with StatReloader
+INFO 2024-08-09 00:28:22,050 autoreload 913 139858844620608 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:28:22,617 autoreload 915 140534429665088 Watching for file changes with StatReloader
+INFO 2024-08-09 00:28:31,228 autoreload 915 140534429665088 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:28:31,877 autoreload 932 139911920912192 Watching for file changes with StatReloader
+INFO 2024-08-09 00:28:40,463 autoreload 932 139911920912192 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-09 00:28:41,305 autoreload 949 140361956439872 Watching for file changes with StatReloader
+INFO 2024-08-09 00:29:23,457 autoreload 949 140361956439872 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:29:24,152 autoreload 966 140120197003072 Watching for file changes with StatReloader
+INFO 2024-08-09 00:29:48,980 autoreload 966 140120197003072 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:29:49,751 autoreload 983 139732249610048 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:30:14,615 log 983 139731378530048 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 44, in post
+    return Response({'records': extract_data.to_dict('records')}, status=status.HTTP_201_CREATED)
+AttributeError: 'list' object has no attribute 'to_dict'
+INFO 2024-08-09 00:30:25,924 autoreload 983 139732249610048 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:30:26,661 autoreload 1001 140602154477376 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:30:29,800 log 1001 140601283409664 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/renderers.py", line 99, in render
+    ret = json.dumps(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type File is not JSON serializable
+INFO 2024-08-09 00:31:02,481 autoreload 1001 140602154477376 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:31:03,150 autoreload 1019 140573023180608 Watching for file changes with StatReloader
+INFO 2024-08-09 00:31:54,521 autoreload 1019 140573023180608 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:31:55,167 autoreload 1036 139926163195712 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:31:59,351 log 1036 139925292119808 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 44, in post
+    return Response({'records': insurance_seralizer.data}, status=status.HTTP_201_CREATED)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 257, in data
+    self._data = self.get_initial()
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 595, in get_initial
+    return self.to_representation(self.initial_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/fields.py", line 951, in to_representation
+    return float(value)
+ValueError: could not convert string to float: 'PVT'
+INFO 2024-08-09 00:32:36,310 autoreload 1036 139926163195712 /backend/file/models.py changed, reloading.
+INFO 2024-08-09 00:32:37,028 autoreload 1054 139821061949248 Watching for file changes with StatReloader
+INFO 2024-08-09 00:34:17,238 autoreload 1054 139821061949248 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:34:17,873 autoreload 1071 139861051799360 Watching for file changes with StatReloader
+INFO 2024-08-09 00:34:31,531 autoreload 1071 139861051799360 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:34:32,223 autoreload 1088 139987920004928 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:34:33,963 log 1088 139987048924928 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 40, in post
+    serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 207, in save
+    self.instance = self.update(self.instance, validated_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 174, in update
+    raise NotImplementedError('`update()` must be implemented.')
+NotImplementedError: `update()` must be implemented.
+INFO 2024-08-09 00:36:09,853 autoreload 1088 139987920004928 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:36:10,575 autoreload 1106 140319563048768 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:36:13,218 log 1106 140318691985152 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs, year, month, file_data.get('instance'))
+  File "/backend/file/utils.py", line 93, in extract_data
+    print(row.to_dict('records'))
+  File "/usr/local/lib/python3.10/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/series.py", line 2074, in to_dict
+    into_c = com.standardize_mapping(into)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/common.py", line 415, in standardize_mapping
+    raise TypeError(f"unsupported type: {into}")
+TypeError: unsupported type: <class 'str'>
+INFO 2024-08-09 00:36:55,203 autoreload 1106 140319563048768 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:36:55,854 autoreload 1124 139875824162624 Watching for file changes with StatReloader
+INFO 2024-08-09 00:37:26,808 autoreload 1124 139875824162624 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:37:27,447 autoreload 1141 140042508019520 Watching for file changes with StatReloader
+INFO 2024-08-09 00:39:04,520 autoreload 1141 140042508019520 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:39:05,238 autoreload 1158 140552655427392 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:39:10,369 log 1158 140551784355584 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs, year, month, file_data.get('instance'))
+  File "/backend/file/utils.py", line 92, in extract_data
+    for _, row in dataframe.to_dict('records'):
+ValueError: too many values to unpack (expected 2)
+INFO 2024-08-09 00:39:42,496 autoreload 1158 140552655427392 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:39:43,129 autoreload 1176 140234295072576 Watching for file changes with StatReloader
+INFO 2024-08-09 00:39:46,243 autoreload 1176 140234295072576 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:39:46,872 autoreload 1178 140116928276288 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:39:49,532 log 1178 140116057212672 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs, year, month, file_data.get('instance'))
+  File "/backend/file/utils.py", line 93, in extract_data
+    print(row.to_dict('records'))
+  File "/usr/local/lib/python3.10/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/series.py", line 2074, in to_dict
+    into_c = com.standardize_mapping(into)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/common.py", line 415, in standardize_mapping
+    raise TypeError(f"unsupported type: {into}")
+TypeError: unsupported type: <class 'str'>
+INFO 2024-08-09 00:40:07,700 autoreload 1178 140116928276288 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:40:08,358 autoreload 1196 139990812297024 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:40:11,057 log 1196 139989941221120 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Acko General Insurance Ltd'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs, year, month, file_data.get('instance'))
+  File "/backend/file/utils.py", line 105, in extract_data
+    'value': row[column]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/series.py", line 1121, in __getitem__
+    return self._get_value(key)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Acko General Insurance Ltd'
+INFO 2024-08-09 00:41:46,686 autoreload 1196 139990812297024 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:41:47,339 autoreload 1214 139737091954496 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:41:50,228 log 1214 139736220886784 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Acko General Insurance Ltd'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 37, in post
+    extract_data = read_file.extract_data(list_of_dataframs, year, month, file_data.get('instance'))
+  File "/backend/file/utils.py", line 105, in extract_data
+    'value': row[column]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/series.py", line 1121, in __getitem__
+    return self._get_value(key)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Acko General Insurance Ltd'
+INFO 2024-08-09 00:42:32,674 autoreload 1214 139737091954496 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:42:33,340 autoreload 1232 139704987109184 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:42:36,132 log 1232 139704116037376 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 40, in post
+    serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 207, in save
+    self.instance = self.update(self.instance, validated_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 174, in update
+    raise NotImplementedError('`update()` must be implemented.')
+NotImplementedError: `update()` must be implemented.
+INFO 2024-08-09 00:43:26,109 autoreload 1232 139704987109184 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:43:26,805 autoreload 1250 140635526469440 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:43:30,790 log 1250 140634655397632 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 41, in post
+    serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 207, in save
+    self.instance = self.update(self.instance, validated_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 174, in update
+    raise NotImplementedError('`update()` must be implemented.')
+NotImplementedError: `update()` must be implemented.
+INFO 2024-08-09 00:44:18,157 autoreload 1250 140635526469440 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:44:18,939 autoreload 1268 140396939282240 Watching for file changes with StatReloader
+INFO 2024-08-09 00:44:37,854 autoreload 1268 140396939282240 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 00:44:38,584 autoreload 1285 140430914017088 Watching for file changes with StatReloader
+INFO 2024-08-09 00:46:09,804 autoreload 1285 140430914017088 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:46:10,521 autoreload 1303 139988085671744 Watching for file changes with StatReloader
+INFO 2024-08-09 00:46:18,674 autoreload 1303 139988085671744 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:46:19,235 autoreload 1305 140325704132416 Watching for file changes with StatReloader
+INFO 2024-08-09 00:46:52,138 autoreload 1305 140325704132416 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:46:52,837 autoreload 1322 139870326245184 Watching for file changes with StatReloader
+INFO 2024-08-09 00:46:54,348 autoreload 1322 139870326245184 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 00:46:54,969 autoreload 1339 140218118211392 Watching for file changes with StatReloader
+ERROR 2024-08-09 00:46:57,742 log 1339 140217247147776 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/renderers.py", line 99, in render
+    ret = json.dumps(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type File is not JSON serializable
