@@ -1,6 +1,6 @@
 # Run Project
 
-- .env.dev, sqlite3 and frontend/.env is added for test only.
+- .env.dev, sqlite3 and frontend/.env is added for test only.@@
 
 username: admin
 password: admin
