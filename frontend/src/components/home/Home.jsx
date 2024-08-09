@@ -1,26 +1,16 @@
-import React from 'react';
-import useAxiosPrivate from '../../hooks/useAxiosPrivate'
+import React, {useState} from 'react';
 import UploadArea from '../upload/UploadArea';
+import DataTable from '../datatable/DataTable';
 
 const Home = () => {
 
-    const axiosPrivate = useAxiosPrivate()
-
-    const logout = () => {
-        axiosPrivate.post('/authentication/logout')
-        .then((res) => {
-            if(res.status === 204){
-                localStorage.clear()
-                sessionStorage.clear()
-                console.log('logout call');
-                // navigator('/login')
-            }
-        })
-    }
+    const [data, setData] = useState(null)
 
     return (
         <>
-            <UploadArea />
+            <UploadArea setData={setData}/>
+            <br />
+            {data && <DataTable data={data}/>}
         </>
     );
 }

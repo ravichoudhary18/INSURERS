@@ -75,7 +75,7 @@ class ReadingExcelFile:
         df_filtered = df[df['General Insurers'].isin(self.list_insurance)]
         return df_filtered
     
-    def extract_data(self, dataframes, year, month, file_instance):
+    def extract_data(self, dataframes, year, month):
         transformed_data = []
 
         for dataframe in dataframes:
@@ -90,23 +90,23 @@ class ReadingExcelFile:
                 lambda x: self.master_join_df.loc[self.master_join_df['insurer'] == x, 'clubbed_name'].iloc[0])
 
             for _, row in dataframe.iterrows():
-                print(row)
+                # print(row)
                 # break
                 
                 clubbed_name = row['clubbed_name']
                 category = row['category']
-
+                product = row['Product']
+                
                 for column in row.index:
-                    print(column)
-                    if column not in ['clubbed_name', 'category', ]:
+                    # print(column)
+                    if column not in ['Product', 'clubbed_name', 'category']:
                         transformed_data.append({
-                            'file': file_instance,
                             'year': year,
                             'month': month,
                             'clubbed_name': clubbed_name,
                             'category': category,
-                            'product': column,
+                            'product': product,
                             'value': row[column]
                         })
-
+            # print(transformed_data)
         return transformed_data

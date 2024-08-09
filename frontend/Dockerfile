@@ -1,5 +1,7 @@
-FROM node:16-alpine3.14
+FROM node:18-alpine
 WORKDIR /frontend
-COPY . .
+RUN npm install vite
+COPY package.json .
 RUN npm install
+COPY . .
 CMD npm run dev

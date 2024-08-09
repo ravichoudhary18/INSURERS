@@ -4,7 +4,10 @@ from rest_framework import status
 from rest_framework.authentication import TokenAuthentication
 from rest_framework.permissions import IsAuthenticated
 from file.serializers import FileSerializer, InsuranceSerializer
+from file.models import Insurance
 from file.utils import ReadingExcelFile
+from django.db import transaction
+
 
 class FileView(APIView):
     
@@ -34,14 +37,28 @@ class FileView(APIView):
                 fixing_columns = read_file.fixing_columns(df)
                 cleaning_file = read_file.cleaning_file(fixing_columns)
                 list_of_dataframs.append(cleaning_file)
-            extract_data = read_file.extract_data(list_of_dataframs, year, month, file_data.get('instance'))
-            print(extract_data)
-            # insurance_seralizer = InsuranceSerializer(data=extract_data, many=True)
-            # if insurance_seralizer.is_valid():
-            #     serializer.save(
-            #         created_by = user_instance,
-            #         updated_by = user_instance,
-            #     )
-            # return Response({'records': insurance_seralizer.data}, status=status.HTTP_201_CREATED)
-            return Response({'records': extract_data}, status=status.HTTP_201_CREATED)
+            extract_data = read_file.extract_data(list_of_dataframs, year, month)
+            instances_ = []
+            insurance_seralizer = InsuranceSerializer(data=extract_data, many=True)
+            if insurance_seralizer.is_valid():
+                with transaction.atomic():
+                    validated_data = insurance_seralizer.validated_data
+
+                    for item in validated_data:
+                        item['file'] = file_data.get('instance')
+                        item['created_by'] = user_instance
+                        item['updated_by'] = user_instance
+                        
+                        instance = Insurance(**item)
+                        instances_.append(instance)
+                    Insurance.objects.bulk_create(instances_)
+
+                    created_serializer = InsuranceSerializer(instances_, many=True)
+                    return Response({'records': created_serializer.data}, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+
+class DownloadAPIView(APIView):
+
+    def post(self, request):
+        pass

@@ -1,11 +1,14 @@
-import React, {useState} from 'react'
+import React, {useState, useContext} from 'react'
 import { Button } from '@mui/material';
 import './UploadArea.css'
 import useAxiosPrivate from '../../hooks/useAxiosPrivate'
+import MainContext from '../../context/MainContext';
 
-const UploadArea = () => {
+const UploadArea = ({
+    setData
+}) => {
 
-
+    const {setIsLoading} =  useContext(MainContext)
     const axiosPrivate = useAxiosPrivate()
     const [form, seForm] = useState({
         file: '',
@@ -24,19 +27,21 @@ const UploadArea = () => {
 
 
     const submitHandler = (event) => {
-        event.preventDefault()
+        event.preventDefault();
+        setIsLoading(true)
         const payload = new FormData();
         payload.append('file', form.file)
-        console.log(payload);
         if (form.file) {
             axiosPrivate.post('/file/file-upload/', payload)
             .then((res) => {
+                setData(res.data.records)
                 console.log(res.data);
             })
             .catch((err) => {
                 console.log(err);
             }).finally(() => {
                 console.log('upload complete');
+                setIsLoading(false)
             })
             
             // You can handle the file upload here, e.g., sending it to a server

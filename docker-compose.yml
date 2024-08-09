@@ -12,7 +12,7 @@ services:
     env_file:
       - .env.dev
     ports:
-      - 8000:8000
+      - 8007:8000
 
   frontend:
     container_name: interview_frontend

@@ -21,7 +21,7 @@ class File(models.Model):
 
 class Insurance(models.Model):
     insurance_id = models.AutoField(primary_key=True)
-    file = models.ForeignKey(File, on_delete=models.CASCADE, related_name='insurance_file')
+    file = models.ForeignKey(File, on_delete=models.CASCADE)
     year = models.CharField(max_length=255)
     month = models.CharField(max_length=255)
     clubbed_name = models.CharField(max_length=255)

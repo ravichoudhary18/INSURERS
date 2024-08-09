@@ -3936,3 +3936,737 @@ Traceback (most recent call last):
   File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
     raise TypeError(f'Object of type {o.__class__.__name__} '
 TypeError: Object of type File is not JSON serializable
+INFO 2024-08-09 07:46:45,773 autoreload 7 140229274351424 Watching for file changes with StatReloader
+INFO 2024-08-09 08:10:15,068 autoreload 7 139655624013632 Watching for file changes with StatReloader
+INFO 2024-08-09 08:14:16,505 autoreload 7 140062647019328 Watching for file changes with StatReloader
+INFO 2024-08-09 08:21:41,603 autoreload 7 140177217140544 Watching for file changes with StatReloader
+INFO 2024-08-09 10:13:02,688 autoreload 7 139829212546880 Watching for file changes with StatReloader
+INFO 2024-08-09 10:15:45,336 autoreload 7 140570575353664 Watching for file changes with StatReloader
+INFO 2024-08-09 10:45:53,185 autoreload 7 139783433164608 Watching for file changes with StatReloader
+INFO 2024-08-09 10:47:10,686 autoreload 7 140378151462720 Watching for file changes with StatReloader
+INFO 2024-08-09 10:48:51,430 autoreload 7 139845067151168 Watching for file changes with StatReloader
+ERROR 2024-08-09 10:51:03,164 log 7 139844361651968 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/renderers.py", line 99, in render
+    ret = json.dumps(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type File is not JSON serializable
+INFO 2024-08-09 10:52:03,540 autoreload 7 139845067151168 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 10:52:04,088 autoreload 21 139880534562624 Watching for file changes with StatReloader
+INFO 2024-08-09 10:52:08,615 autoreload 21 139880534562624 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 10:52:09,154 autoreload 34 140239122466624 Watching for file changes with StatReloader
+INFO 2024-08-09 10:52:19,910 autoreload 34 140239122466624 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 10:52:20,456 autoreload 48 139953080592192 Watching for file changes with StatReloader
+INFO 2024-08-09 10:52:40,377 autoreload 48 139953080592192 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 10:52:40,913 autoreload 62 140238706992960 Watching for file changes with StatReloader
+INFO 2024-08-09 10:54:18,628 autoreload 62 140238706992960 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 10:54:19,183 autoreload 76 140651574363968 Watching for file changes with StatReloader
+INFO 2024-08-09 10:54:58,502 autoreload 76 140651574363968 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 10:54:59,016 autoreload 90 139982242649920 Watching for file changes with StatReloader
+INFO 2024-08-09 10:55:38,331 autoreload 90 139982242649920 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 10:55:38,898 autoreload 103 140187242641216 Watching for file changes with StatReloader
+INFO 2024-08-09 10:56:26,475 autoreload 103 140187242641216 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 10:56:27,014 autoreload 117 140470154770240 Watching for file changes with StatReloader
+INFO 2024-08-09 10:56:40,829 autoreload 117 140470154770240 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 10:56:41,377 autoreload 131 140699480987456 Watching for file changes with StatReloader
+INFO 2024-08-09 10:56:53,654 autoreload 131 140699480987456 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 10:56:54,134 autoreload 133 140306932479808 Watching for file changes with StatReloader
+ERROR 2024-08-09 10:57:01,212 log 133 140306227922688 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 41, in post
+    serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 207, in save
+    self.instance = self.update(self.instance, validated_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 174, in update
+    raise NotImplementedError('`update()` must be implemented.')
+NotImplementedError: `update()` must be implemented.
+INFO 2024-08-09 10:57:43,745 autoreload 133 140306932479808 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-09 10:57:44,298 autoreload 147 140623615604544 Watching for file changes with StatReloader
+ERROR 2024-08-09 10:57:48,657 log 147 140622910457600 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/fields.py", line 446, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/fields.py", line 94, in get_attribute
+    instance = instance[attr]
+KeyError: 'created_by'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 45, in post
+    return Response({'records': insurance_seralizer.data}, status=status.HTTP_201_CREATED)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 257, in data
+    self._data = self.get_initial()
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 595, in get_initial
+    return self.to_representation(self.initial_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/fields.py", line 479, in get_attribute
+    raise type(exc)(msg)
+KeyError: "Got KeyError when attempting to get a value for field `created_by` on serializer `InsuranceSerializer`.\nThe serializer field might be named incorrectly and not match any attribute or key on the `dict` instance.\nOriginal exception text was: 'created_by'."
+INFO 2024-08-09 10:58:17,509 autoreload 147 140623615604544 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-09 10:58:18,066 autoreload 161 140450488919872 Watching for file changes with StatReloader
+INFO 2024-08-09 10:58:54,301 autoreload 161 140450488919872 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-09 10:58:54,830 autoreload 174 140242950219584 Watching for file changes with StatReloader
+ERROR 2024-08-09 10:59:04,410 log 174 140242245912320 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 41, in post
+    serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 207, in save
+    self.instance = self.update(self.instance, validated_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 174, in update
+    raise NotImplementedError('`update()` must be implemented.')
+NotImplementedError: `update()` must be implemented.
+INFO 2024-08-09 11:02:08,653 autoreload 174 140242950219584 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-09 11:02:09,174 autoreload 188 139800994060096 Watching for file changes with StatReloader
+INFO 2024-08-09 11:02:53,454 autoreload 188 139800994060096 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-09 11:02:53,987 autoreload 201 139732264736576 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:03:04,474 log 201 139731560040192 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 41, in post
+    serializer.save(
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 207, in save
+    self.instance = self.update(self.instance, validated_data)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 174, in update
+    raise NotImplementedError('`update()` must be implemented.')
+NotImplementedError: `update()` must be implemented.
+INFO 2024-08-09 11:09:32,141 autoreload 201 139732264736576 /backend/file/serializers.py changed, reloading.
+INFO 2024-08-09 11:09:32,705 autoreload 215 140660364629824 Watching for file changes with StatReloader
+INFO 2024-08-09 11:10:06,880 autoreload 215 140660364629824 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:10:07,417 autoreload 228 139955166455616 Watching for file changes with StatReloader
+INFO 2024-08-09 11:11:20,767 autoreload 228 139955166455616 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:11:21,243 autoreload 230 140122795525952 Watching for file changes with StatReloader
+INFO 2024-08-09 11:11:30,875 autoreload 230 140122795525952 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:11:31,436 autoreload 243 140092282275648 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:11:38,798 log 243 140091576026880 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 41, in post
+    with transaction.atomic():
+NameError: name 'transaction' is not defined
+INFO 2024-08-09 11:12:02,604 autoreload 243 140092282275648 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:12:03,142 autoreload 257 139721894102848 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:12:07,608 log 257 139721187526400 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 53, in post
+    instance = Insurance(**item)
+NameError: name 'Insurance' is not defined
+INFO 2024-08-09 11:12:32,282 autoreload 257 139721894102848 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:12:32,821 autoreload 271 140172199585600 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:12:36,918 log 271 140171494295296 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 55, in post
+    instances.append(instance)
+NameError: name 'instances' is not defined
+INFO 2024-08-09 11:12:51,728 autoreload 271 140172199585600 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:12:52,261 autoreload 285 139921003140928 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:12:54,975 log 285 139920297428736 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 55, in post
+    instances_.append(instance)
+NameError: name 'instances_' is not defined
+INFO 2024-08-09 11:13:13,528 autoreload 285 139921003140928 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:13:14,059 autoreload 299 139832899217216 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:13:17,221 log 299 139832193976064 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: file_insurance
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 57, in post
+    Insurance.objects.bulk_create(instances_)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1839, in _batched_insert
+    self._insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: file_insurance
+INFO 2024-08-09 11:13:57,550 autoreload 299 139832899217216 /backend/file/models.py changed, reloading.
+INFO 2024-08-09 11:13:58,087 autoreload 313 140199378270016 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:15:11,025 log 313 140198673385216 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: file_insurance.file_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 57, in post
+    Insurance.objects.bulk_create(instances_)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1839, in _batched_insert
+    self._insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: file_insurance.file_id
+INFO 2024-08-09 11:15:51,422 autoreload 313 140199378270016 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:15:51,961 autoreload 358 140538624644928 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:16:11,588 log 358 140537919178496 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: file_insurance.file_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 57, in post
+    Insurance.objects.bulk_create(instances_)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1839, in _batched_insert
+    self._insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: file_insurance.file_id
+INFO 2024-08-09 11:17:05,293 autoreload 358 140538624644928 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:17:05,827 autoreload 372 140134825908032 Watching for file changes with StatReloader
+INFO 2024-08-09 11:17:27,795 autoreload 372 140134825908032 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:17:28,349 autoreload 385 139753127032640 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:17:31,082 log 385 139752422508288 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: file_insurance.file_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 57, in post
+    Insurance.objects.bulk_create(instances_)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1839, in _batched_insert
+    self._insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: file_insurance.file_id
+INFO 2024-08-09 11:17:56,800 autoreload 385 139753127032640 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 11:17:57,340 autoreload 399 139898216068928 Watching for file changes with StatReloader
+INFO 2024-08-09 11:18:00,861 autoreload 399 139898216068928 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 11:18:01,399 autoreload 412 140166870353728 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:18:50,200 log 412 140166165432064 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: file_insurance.file_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 57, in post
+    Insurance.objects.bulk_create(instances_)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1839, in _batched_insert
+    self._insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: file_insurance.file_id
+INFO 2024-08-09 11:19:21,090 autoreload 412 140166870353728 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:19:21,614 autoreload 426 140199421773632 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:19:24,345 log 426 140198717425408 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: file_insurance.file_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 57, in post
+    Insurance.objects.bulk_create(instances_)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1839, in _batched_insert
+    self._insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: file_insurance.file_id
+INFO 2024-08-09 11:19:47,020 autoreload 426 140199421773632 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:19:47,589 autoreload 440 140170663905088 Watching for file changes with StatReloader
+INFO 2024-08-09 11:19:56,182 autoreload 440 140170663905088 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:19:56,718 autoreload 453 140066516846400 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:19:59,626 log 453 140065812514560 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: file_insurance.file_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 58, in post
+    Insurance.objects.bulk_create(instances_)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1839, in _batched_insert
+    self._insert(
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: file_insurance.file_id
+INFO 2024-08-09 11:20:34,152 autoreload 453 140066516846400 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 11:20:34,707 autoreload 467 140083899467584 Watching for file changes with StatReloader
+INFO 2024-08-09 11:21:18,245 autoreload 467 140083899467584 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:21:18,799 autoreload 480 140228111247168 Watching for file changes with StatReloader
+INFO 2024-08-09 11:21:20,904 autoreload 480 140228111247168 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:21:21,371 autoreload 482 139870137395008 Watching for file changes with StatReloader
+ERROR 2024-08-09 11:21:29,590 log 482 139869431006976 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 51, in post
+    item['created_by'] = user  # Assuming user instance from request
+NameError: name 'user' is not defined
+INFO 2024-08-09 11:21:44,405 autoreload 482 139870137395008 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:21:44,944 autoreload 496 140689146222400 Watching for file changes with StatReloader
+INFO 2024-08-09 11:22:28,532 autoreload 496 140689146222400 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:22:29,065 autoreload 510 140068796262208 Watching for file changes with StatReloader
+INFO 2024-08-09 11:24:35,671 autoreload 510 140068796262208 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 11:24:36,190 autoreload 524 140144480679744 Watching for file changes with StatReloader
+INFO 2024-08-09 11:30:20,599 autoreload 524 140144480679744 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 11:30:21,138 autoreload 537 140515672368960 Watching for file changes with StatReloader
+INFO 2024-08-09 11:31:10,843 autoreload 537 140515672368960 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 11:31:11,377 autoreload 551 140203001145152 Watching for file changes with StatReloader
+INFO 2024-08-09 11:55:54,778 autoreload 7 140299746928448 Watching for file changes with StatReloader
+INFO 2024-08-09 12:05:46,844 autoreload 7 139629881640768 Watching for file changes with StatReloader
+INFO 2024-08-09 12:06:33,182 autoreload 7 140386160322368 Watching for file changes with StatReloader
+INFO 2024-08-09 12:07:22,627 autoreload 7 139706380883776 Watching for file changes with StatReloader
+INFO 2024-08-09 12:09:30,058 autoreload 7 140382821574464 Watching for file changes with StatReloader
+INFO 2024-08-09 12:21:28,819 autoreload 7 140035997222720 Watching for file changes with StatReloader
+INFO 2024-08-09 12:21:51,240 autoreload 7 140521075009344 Watching for file changes with StatReloader
+INFO 2024-08-09 12:23:01,287 autoreload 7 140629304457024 Watching for file changes with StatReloader
+INFO 2024-08-09 12:49:26,630 autoreload 7 140348468078400 Watching for file changes with StatReloader
+INFO 2024-08-09 12:55:36,126 autoreload 7 140574050395968 Watching for file changes with StatReloader
+INFO 2024-08-09 12:58:48,660 autoreload 7 139634206029632 Watching for file changes with StatReloader
+INFO 2024-08-09 13:03:45,577 autoreload 7 139697310832448 Watching for file changes with StatReloader
+INFO 2024-08-09 13:07:22,936 autoreload 7 140403875051328 Watching for file changes with StatReloader
+INFO 2024-08-09 13:07:30,765 autoreload 7 139892997658432 Watching for file changes with StatReloader
+INFO 2024-08-09 13:09:38,969 autoreload 7 140325903853376 Watching for file changes with StatReloader
+INFO 2024-08-09 13:11:58,394 autoreload 7 139629340800832 Watching for file changes with StatReloader
