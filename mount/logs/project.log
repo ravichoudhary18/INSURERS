@@ -4670,3 +4670,678 @@ INFO 2024-08-09 13:07:22,936 autoreload 7 140403875051328 Watching for file chan
 INFO 2024-08-09 13:07:30,765 autoreload 7 139892997658432 Watching for file changes with StatReloader
 INFO 2024-08-09 13:09:38,969 autoreload 7 140325903853376 Watching for file changes with StatReloader
 INFO 2024-08-09 13:11:58,394 autoreload 7 139629340800832 Watching for file changes with StatReloader
+INFO 2024-08-09 16:18:27,074 autoreload 7 140263194945344 Watching for file changes with StatReloader
+INFO 2024-08-09 16:19:01,996 autoreload 7 140567696369472 Watching for file changes with StatReloader
+INFO 2024-08-09 16:22:12,658 autoreload 7 140414945003328 Watching for file changes with StatReloader
+INFO 2024-08-09 16:25:28,814 autoreload 7 139729486657344 Watching for file changes with StatReloader
+INFO 2024-08-09 17:05:00,439 autoreload 7 139729486657344 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:05:01,244 autoreload 27 140063841175360 Watching for file changes with StatReloader
+INFO 2024-08-09 17:05:15,989 autoreload 27 140063841175360 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:05:16,801 autoreload 44 139740884825920 Watching for file changes with StatReloader
+INFO 2024-08-09 17:07:03,143 autoreload 44 139740884825920 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:07:04,139 autoreload 61 139622816646976 Watching for file changes with StatReloader
+INFO 2024-08-09 17:07:24,068 autoreload 61 139622816646976 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 17:07:24,966 autoreload 78 140523934934848 Watching for file changes with StatReloader
+INFO 2024-08-09 17:11:23,207 autoreload 78 140523934934848 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:11:23,975 autoreload 96 140305803654976 Watching for file changes with StatReloader
+INFO 2024-08-09 17:11:55,450 autoreload 96 140305803654976 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:11:56,479 autoreload 114 140273298175808 Watching for file changes with StatReloader
+INFO 2024-08-09 17:12:09,299 autoreload 114 140273298175808 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 17:12:10,146 autoreload 131 139624771131200 Watching for file changes with StatReloader
+INFO 2024-08-09 17:14:20,154 autoreload 131 139624771131200 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:14:21,129 autoreload 149 139961854170944 Watching for file changes with StatReloader
+ERROR 2024-08-09 17:14:25,248 log 149 139960983107328 Internal Server Error: /api/file/file-upload/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 42, in post
+    extract_data = read_file.group_records(extract_data)
+  File "/backend/file/utils.py", line 137, in group_records
+    sorted_df = grouped_data.sort_values(by=['product', 'category', 'clubbed_name'], ascending=[True, True])
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 7167, in sort_values
+    raise ValueError(
+ValueError: Length of ascending (2) != length of by (3)
+INFO 2024-08-09 17:14:49,815 autoreload 149 139961854170944 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:14:50,578 autoreload 167 139770864682816 Watching for file changes with StatReloader
+INFO 2024-08-09 17:20:20,434 autoreload 167 139770864682816 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:20:21,040 autoreload 185 139652019021632 Watching for file changes with StatReloader
+INFO 2024-08-09 17:20:23,543 autoreload 185 139652019021632 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:20:24,168 autoreload 202 140220565878592 Watching for file changes with StatReloader
+INFO 2024-08-09 17:21:18,644 autoreload 202 140220565878592 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:21:19,379 autoreload 220 140406298756928 Watching for file changes with StatReloader
+INFO 2024-08-09 17:21:44,243 autoreload 220 140406298756928 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:21:44,858 autoreload 238 140462282078016 Watching for file changes with StatReloader
+INFO 2024-08-09 17:24:02,832 autoreload 238 140462282078016 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:24:03,445 autoreload 256 139638847162176 Watching for file changes with StatReloader
+INFO 2024-08-09 17:25:28,417 autoreload 256 139638847162176 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:25:29,038 autoreload 274 140574191036224 Watching for file changes with StatReloader
+INFO 2024-08-09 17:25:36,595 autoreload 274 140574191036224 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:25:37,324 autoreload 291 140127543547712 Watching for file changes with StatReloader
+INFO 2024-08-09 17:25:47,977 autoreload 291 140127543547712 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:25:48,580 autoreload 308 140549880813376 Watching for file changes with StatReloader
+INFO 2024-08-09 17:27:34,464 autoreload 308 140549880813376 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:27:35,212 autoreload 326 139631285667648 Watching for file changes with StatReloader
+INFO 2024-08-09 17:28:31,897 autoreload 326 139631285667648 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:28:32,623 autoreload 343 139665028515648 Watching for file changes with StatReloader
+INFO 2024-08-09 17:28:54,392 autoreload 343 139665028515648 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:28:55,080 autoreload 360 140637913048896 Watching for file changes with StatReloader
+INFO 2024-08-09 17:29:00,705 autoreload 360 140637913048896 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 17:29:01,349 autoreload 377 140467001370432 Watching for file changes with StatReloader
+INFO 2024-08-09 17:30:21,515 autoreload 377 140467001370432 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:30:22,132 autoreload 395 140173369538368 Watching for file changes with StatReloader
+INFO 2024-08-09 17:31:58,457 autoreload 395 140173369538368 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:31:59,083 autoreload 413 140228261988160 Watching for file changes with StatReloader
+INFO 2024-08-09 17:33:43,414 autoreload 413 140228261988160 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 17:33:44,111 autoreload 431 140250752042816 Watching for file changes with StatReloader
+INFO 2024-08-09 17:33:49,668 autoreload 431 140250752042816 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 17:33:50,341 autoreload 448 140170799253312 Watching for file changes with StatReloader
+INFO 2024-08-09 17:58:57,730 autoreload 448 140170799253312 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 17:58:58,379 autoreload 466 140337714657088 Watching for file changes with StatReloader
+INFO 2024-08-09 18:00:05,847 autoreload 466 140337714657088 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:00:06,465 autoreload 483 140141309364032 Watching for file changes with StatReloader
+INFO 2024-08-09 18:00:16,636 autoreload 483 140141309364032 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:00:17,243 autoreload 485 140282620634944 Watching for file changes with StatReloader
+INFO 2024-08-09 18:01:05,507 autoreload 485 140282620634944 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:01:06,198 autoreload 502 140459788887872 Watching for file changes with StatReloader
+INFO 2024-08-09 18:02:38,637 autoreload 502 140459788887872 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:02:39,311 autoreload 519 140134840006464 Watching for file changes with StatReloader
+INFO 2024-08-09 18:03:28,673 autoreload 519 140134840006464 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:03:29,491 autoreload 536 140054075348800 Watching for file changes with StatReloader
+INFO 2024-08-09 18:04:28,077 autoreload 536 140054075348800 /backend/file/urls.py changed, reloading.
+INFO 2024-08-09 18:04:28,686 autoreload 553 139963009464128 Watching for file changes with StatReloader
+WARNING 2024-08-09 18:04:38,504 log 553 139962138400512 Not Found: /api/file/file-download/211
+INFO 2024-08-09 18:04:59,642 autoreload 553 139963009464128 /backend/file/urls.py changed, reloading.
+INFO 2024-08-09 18:05:00,252 autoreload 571 139805924616000 Watching for file changes with StatReloader
+INFO 2024-08-09 18:05:04,760 autoreload 571 139805924616000 /backend/file/models.py changed, reloading.
+INFO 2024-08-09 18:05:05,388 autoreload 588 139790380287808 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:05:08,722 log 588 139789509220096 Internal Server Error: /api/file/file-download/211
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "/usr/local/lib/python3.10/site-packages/django/middleware/common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "/usr/local/lib/python3.10/site-packages/django/middleware/common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 192.168.0.108:8007/api/file/file-download/211/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2024-08-09 18:05:10,207 log 588 139789509220096 Internal Server Error: /api/file/file-download/211
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "/usr/local/lib/python3.10/site-packages/django/middleware/common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "/usr/local/lib/python3.10/site-packages/django/middleware/common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 192.168.0.108:8007/api/file/file-download/211/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+INFO 2024-08-09 18:06:08,151 autoreload 588 139790380287808 /backend/Project/settings.py changed, reloading.
+INFO 2024-08-09 18:06:08,774 autoreload 607 139785750337344 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:06:11,848 log 607 139784879269632 Internal Server Error: /api/file/file-download/211/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+TypeError: DownloadAPIView.post() got multiple values for argument 'pk'
+INFO 2024-08-09 18:06:28,614 autoreload 607 139785750337344 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:06:29,285 autoreload 625 140395033020224 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:06:31,075 log 625 140394161948416 Internal Server Error: /api/file/file-download/211/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 66, in post
+    records = Insurance.objects.download_file(pk)
+AttributeError: type object 'Insurance' has no attribute 'objects'
+INFO 2024-08-09 18:06:46,027 autoreload 625 140395033020224 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:06:46,631 autoreload 643 140010858776384 Watching for file changes with StatReloader
+INFO 2024-08-09 18:06:49,128 autoreload 643 140010858776384 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:06:49,835 autoreload 660 139946220898112 Watching for file changes with StatReloader
+INFO 2024-08-09 18:07:24,901 autoreload 660 139946220898112 /backend/file/models.py changed, reloading.
+INFO 2024-08-09 18:07:25,599 autoreload 677 140514063152960 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:07:29,148 log 677 140513192081152 Internal Server Error: /api/file/file-download/211/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 67, in post
+    excel_genrator = ReadingExcelFile()
+TypeError: ReadingExcelFile.__init__() missing 1 required positional argument: 'file'
+INFO 2024-08-09 18:08:11,954 autoreload 677 140514063152960 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:08:12,592 autoreload 695 140168391219008 Watching for file changes with StatReloader
+INFO 2024-08-09 18:08:26,250 autoreload 695 140168391219008 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:08:26,972 autoreload 712 139865032750912 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:08:37,516 log 712 139864161679104 Internal Server Error: /api/file/file-download/211/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 67, in post
+    excel_genrator = GenrateExcelFile()
+TypeError: GenrateExcelFile.__init__() missing 1 required positional argument: 'data'
+INFO 2024-08-09 18:09:09,206 autoreload 712 139865032750912 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:09:09,968 autoreload 730 140441359992640 Watching for file changes with StatReloader
+INFO 2024-08-09 18:09:18,601 autoreload 730 140441359992640 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:09:19,217 autoreload 747 140142527518528 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:09:22,585 log 747 140141656446720 Internal Server Error: /api/file/file-download/211/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 485, in _set_streaming_content
+    self._iterator = iter(value)
+TypeError: 'int' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 69, in post
+    return FileResponse(file, as_attachment=True, filename='report.xlsx')
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 544, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 447, in __init__
+    self.streaming_content = streaming_content
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 480, in streaming_content
+    self._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 549, in _set_streaming_content
+    return super()._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 488, in _set_streaming_content
+    self._iterator = value.__aiter__()
+AttributeError: 'int' object has no attribute '__aiter__'
+INFO 2024-08-09 18:09:54,244 autoreload 747 140142527518528 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:09:54,976 autoreload 765 139777878398784 Watching for file changes with StatReloader
+INFO 2024-08-09 18:10:07,703 autoreload 765 139777878398784 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:10:08,317 autoreload 782 139641535448896 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:10:10,981 log 782 139640664368896 Internal Server Error: /api/file/file-download/211/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 485, in _set_streaming_content
+    self._iterator = iter(value)
+TypeError: 'int' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 73, in post
+    return FileResponse(file, as_attachment=True, filename='report.xlsx')
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 544, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 447, in __init__
+    self.streaming_content = streaming_content
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 480, in streaming_content
+    self._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 549, in _set_streaming_content
+    return super()._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 488, in _set_streaming_content
+    self._iterator = value.__aiter__()
+AttributeError: 'int' object has no attribute '__aiter__'
+INFO 2024-08-09 18:11:06,178 autoreload 782 139641535448896 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:11:06,823 autoreload 800 139914441369408 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:11:07,318 log 800 139913571350272 Internal Server Error: /api/file/file-download/211/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 485, in _set_streaming_content
+    self._iterator = iter(value)
+TypeError: 'int' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 73, in post
+    return FileResponse(file, as_attachment=True, filename='report.xlsx')
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 544, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 447, in __init__
+    self.streaming_content = streaming_content
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 480, in streaming_content
+    self._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 549, in _set_streaming_content
+    return super()._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 488, in _set_streaming_content
+    self._iterator = value.__aiter__()
+AttributeError: 'int' object has no attribute '__aiter__'
+INFO 2024-08-09 18:12:00,410 autoreload 800 139914441369408 /backend/file/manager.py changed, reloading.
+INFO 2024-08-09 18:12:01,091 autoreload 818 140197717305152 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:12:06,035 log 818 140196846241536 Internal Server Error: /api/file/file-download/211/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 485, in _set_streaming_content
+    self._iterator = iter(value)
+TypeError: 'int' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 73, in post
+    return FileResponse(file, as_attachment=True, filename='report.xlsx')
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 544, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 447, in __init__
+    self.streaming_content = streaming_content
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 480, in streaming_content
+    self._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 549, in _set_streaming_content
+    return super()._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 488, in _set_streaming_content
+    self._iterator = value.__aiter__()
+AttributeError: 'int' object has no attribute '__aiter__'
+INFO 2024-08-09 18:12:47,451 autoreload 818 140197717305152 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:12:48,102 autoreload 836 139649646860096 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:12:49,302 log 836 139648776845056 Internal Server Error: /api/file/file-download/211/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 485, in _set_streaming_content
+    self._iterator = iter(value)
+TypeError: 'int' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 73, in post
+    return FileResponse(file, as_attachment=True, filename='report.xlsx')
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 544, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 447, in __init__
+    self.streaming_content = streaming_content
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 480, in streaming_content
+    self._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 549, in _set_streaming_content
+    return super()._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 488, in _set_streaming_content
+    self._iterator = value.__aiter__()
+AttributeError: 'int' object has no attribute '__aiter__'
+INFO 2024-08-09 18:14:07,221 autoreload 836 139649646860096 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:14:07,982 autoreload 854 140191266158400 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:14:30,300 log 854 140190395086592 Internal Server Error: /api/file/file-download/212/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 485, in _set_streaming_content
+    self._iterator = iter(value)
+TypeError: 'int' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 73, in post
+    return FileResponse(file, as_attachment=True, filename='report.xlsx')
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 544, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 447, in __init__
+    self.streaming_content = streaming_content
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 480, in streaming_content
+    self._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 549, in _set_streaming_content
+    return super()._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 488, in _set_streaming_content
+    self._iterator = value.__aiter__()
+AttributeError: 'int' object has no attribute '__aiter__'
+INFO 2024-08-09 18:15:55,287 autoreload 854 140191266158400 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:15:56,285 autoreload 872 140257304659776 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:16:00,434 log 872 140256433587968 Internal Server Error: /api/file/file-download/212/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 485, in _set_streaming_content
+    self._iterator = iter(value)
+TypeError: 'int' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 73, in post
+    return FileResponse(file, as_attachment=True, filename='report.xlsx')
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 544, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 447, in __init__
+    self.streaming_content = streaming_content
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 480, in streaming_content
+    self._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 549, in _set_streaming_content
+    return super()._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 488, in _set_streaming_content
+    self._iterator = value.__aiter__()
+AttributeError: 'int' object has no attribute '__aiter__'
+INFO 2024-08-09 18:16:44,770 autoreload 872 140257304659776 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:16:45,606 autoreload 890 139859561191232 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:16:49,968 log 890 139858690123520 Internal Server Error: /api/file/file-download/212/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 485, in _set_streaming_content
+    self._iterator = iter(value)
+TypeError: 'int' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 74, in post
+    return FileResponse(file, as_attachment=True, filename='report.xlsx')
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 544, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 447, in __init__
+    self.streaming_content = streaming_content
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 480, in streaming_content
+    self._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 549, in _set_streaming_content
+    return super()._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 488, in _set_streaming_content
+    self._iterator = value.__aiter__()
+AttributeError: 'int' object has no attribute '__aiter__'
+INFO 2024-08-09 18:17:18,763 autoreload 890 139859561191232 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:17:19,744 autoreload 908 139781695285056 Watching for file changes with StatReloader
+INFO 2024-08-09 18:19:34,519 autoreload 908 139781695285056 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:19:35,654 autoreload 925 140453347592000 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:19:41,277 log 925 140452476520192 Internal Server Error: /api/file/file-download/212/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 485, in _set_streaming_content
+    self._iterator = iter(value)
+TypeError: 'int' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 73, in post
+    response = FileResponse(output, as_attachment=True, filename='report.xlsx')
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 544, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 447, in __init__
+    self.streaming_content = streaming_content
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 480, in streaming_content
+    self._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 549, in _set_streaming_content
+    return super()._set_streaming_content(value)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 488, in _set_streaming_content
+    self._iterator = value.__aiter__()
+AttributeError: 'int' object has no attribute '__aiter__'
+INFO 2024-08-09 18:23:06,044 autoreload 925 140453347592000 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 18:23:06,797 autoreload 943 140305303091008 Watching for file changes with StatReloader
+INFO 2024-08-09 18:25:00,334 autoreload 943 140305303091008 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:25:01,254 autoreload 961 139771245074240 Watching for file changes with StatReloader
+INFO 2024-08-09 18:25:02,878 autoreload 961 139771245074240 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:25:03,722 autoreload 978 140605314320192 Watching for file changes with StatReloader
+INFO 2024-08-09 18:25:06,226 autoreload 978 140605314320192 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:25:07,171 autoreload 995 140460410722112 Watching for file changes with StatReloader
+INFO 2024-08-09 18:25:08,760 autoreload 995 140460410722112 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:25:09,497 autoreload 1012 139707543041856 Watching for file changes with StatReloader
+ERROR 2024-08-09 18:25:11,545 log 1012 139706671965952 Internal Server Error: /api/file/file-download/212/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 72, in post
+    output = excel_genrator.write_data()
+  File "/backend/file/utils.py", line 151, in write_data
+    self.sheet.append([
+AttributeError: 'GenrateExcelFile' object has no attribute 'sheet'
+INFO 2024-08-09 18:25:28,430 autoreload 1012 139707543041856 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:25:29,275 autoreload 1030 139715487627072 Watching for file changes with StatReloader
+INFO 2024-08-09 18:26:11,644 autoreload 1030 139715487627072 /backend/file/manager.py changed, reloading.
+INFO 2024-08-09 18:26:12,485 autoreload 1048 139879113836352 Watching for file changes with StatReloader
+INFO 2024-08-09 18:28:13,182 autoreload 1048 139879113836352 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:28:14,039 autoreload 1066 140248603879232 Watching for file changes with StatReloader
+INFO 2024-08-09 18:28:44,762 autoreload 1066 140248603879232 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:28:45,532 autoreload 1083 139898122630976 Watching for file changes with StatReloader
+INFO 2024-08-09 18:30:16,275 autoreload 1083 139898122630976 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:30:17,145 autoreload 1100 140093447677760 Watching for file changes with StatReloader
+INFO 2024-08-09 18:31:44,161 autoreload 1100 140093447677760 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:31:45,088 autoreload 1117 140179427788608 Watching for file changes with StatReloader
+INFO 2024-08-09 18:32:07,070 autoreload 1117 140179427788608 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:32:07,844 autoreload 1135 139938540832576 Watching for file changes with StatReloader
+INFO 2024-08-09 18:32:17,555 autoreload 1135 139938540832576 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:32:18,613 autoreload 1153 140032780252992 Watching for file changes with StatReloader
+INFO 2024-08-09 18:32:26,267 autoreload 1153 140032780252992 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:32:27,195 autoreload 1170 139736503473984 Watching for file changes with StatReloader
+INFO 2024-08-09 18:34:01,391 autoreload 1170 139736503473984 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 18:34:02,141 autoreload 1187 139663439206208 Watching for file changes with StatReloader
+WARNING 2024-08-09 18:51:32,039 log 1187 139662554502912 Forbidden: /api/file/file-download/212/
+WARNING 2024-08-09 19:01:47,672 log 1187 139662554502912 Forbidden: /api/file/file-download/212/
+INFO 2024-08-09 19:08:17,911 autoreload 1187 139663439206208 /backend/file/views.py changed, reloading.
+INFO 2024-08-09 19:08:18,587 autoreload 1208 140448564193088 Watching for file changes with StatReloader
+INFO 2024-08-09 19:10:25,271 autoreload 1208 140448564193088 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 19:10:25,928 autoreload 1226 139832128505664 Watching for file changes with StatReloader
+ERROR 2024-08-09 19:10:28,473 log 1226 139831257442048 Internal Server Error: /api/file/file-download/212/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/backend/file/views.py", line 71, in get
+    output = excel_genrator.write_data()
+  File "/backend/file/utils.py", line 145, in write_data
+    df = df[['Year', 'Month', 'Clubbed Name', 'Category', 'Product', 'Value']]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/usr/local/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['Clubbed Name', 'Category'] not in index"
+INFO 2024-08-09 19:10:46,869 autoreload 1226 139832128505664 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 19:10:47,531 autoreload 1244 139884969244480 Watching for file changes with StatReloader
+INFO 2024-08-09 19:24:44,071 autoreload 7 140135860954944 Watching for file changes with StatReloader
+INFO 2024-08-09 19:25:21,177 autoreload 7 140135860954944 /backend/file/utils.py changed, reloading.
+INFO 2024-08-09 19:25:21,924 autoreload 24 140264158521152 Watching for file changes with StatReloader

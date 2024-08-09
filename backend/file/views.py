@@ -5,8 +5,9 @@ from rest_framework.authentication import TokenAuthentication
 from rest_framework.permissions import IsAuthenticated
 from file.serializers import FileSerializer, InsuranceSerializer
 from file.models import Insurance
-from file.utils import ReadingExcelFile
+from file.utils import ReadingExcelFile, GenrateExcelFile
 from django.db import transaction
+from django.http import FileResponse, HttpResponse
 
 
 class FileView(APIView):
@@ -38,6 +39,7 @@ class FileView(APIView):
                 cleaning_file = read_file.cleaning_file(fixing_columns)
                 list_of_dataframs.append(cleaning_file)
             extract_data = read_file.extract_data(list_of_dataframs, year, month)
+            extract_data = read_file.group_records(extract_data)
             instances_ = []
             insurance_seralizer = InsuranceSerializer(data=extract_data, many=True)
             if insurance_seralizer.is_valid():
@@ -51,14 +53,28 @@ class FileView(APIView):
                         
                         instance = Insurance(**item)
                         instances_.append(instance)
-                    Insurance.objects.bulk_create(instances_)
+            Insurance.objects.bulk_create(instances_)
 
-                    created_serializer = InsuranceSerializer(instances_, many=True)
-                    return Response({'records': created_serializer.data}, status=status.HTTP_201_CREATED)
+            created_serializer = InsuranceSerializer(instances_, many=True)
+            return Response({'records': created_serializer.data, 'download_id': file_data.get('instance').file_id , 'status': 'success'}, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 
 class DownloadAPIView(APIView):
 
-    def post(self, request):
-        pass
+    def get(self, request, pk):
+        records = Insurance.objects.download_file(pk)
+        if not records:
+            return Response({'message': 'No records found'}, status=status.HTTP_404_NOT_FOUND)
+        
+        excel_genrator = GenrateExcelFile(records)
+        output = excel_genrator.write_data()
+        response = HttpResponse(output, content_type='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')
+        response['Content-Disposition'] = 'attachment; filename=report.xlsx'
+        
+        return response
+
+        # response = FileResponse(output, as_attachment=True, filename='report.xlsx')
+        # return response
+        # return FileResponse(file, as_attachment=True, filename='report.xlsx')
+        

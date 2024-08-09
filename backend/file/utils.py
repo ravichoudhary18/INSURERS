@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+import io
 
 
 class ReadingExcelFile:
@@ -105,8 +106,46 @@ class ReadingExcelFile:
                             'month': month,
                             'clubbed_name': clubbed_name,
                             'category': category,
-                            'product': product,
+                            'product': column,
                             'value': row[column]
                         })
             # print(transformed_data)
         return transformed_data
+
+    def group_records(self, data):
+        df = pd.DataFrame(data)
+
+        df['value'] = pd.to_numeric(df['value'])
+
+        grouped_data = df.groupby(
+            ['year', 'month', 'clubbed_name', 'category', 'product'],
+            as_index=False
+        ).agg({'value': 'sum'})
+        
+        sorted_df = grouped_data.sort_values(by=['clubbed_name', 'category', 'product'], ascending=[True, True, True])
+
+
+        # Convert the result back to a list of dictionaries if needed
+        result = sorted_df.to_dict(orient='records')
+
+        # Print the grouped data
+        return result
+
+
+
+class GenrateExcelFile:
+    
+    def __init__(self, queryset):
+        self.queryset = queryset
+        
+    def write_data(self):
+        output = io.BytesIO()
+        df = pd.DataFrame(self.queryset)
+        df = df[['Year', 'Month', 'clubbed_name', 'category', 'Product', 'Value']]
+        with pd.ExcelWriter(output, engine='openpyxl') as writer:
+            df.to_excel(writer, sheet_name='report', index=False)
+        
+        # Move the file pointer to the beginning of the BytesIO object
+        output.seek(0)
+        
+        return output

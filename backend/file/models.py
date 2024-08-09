@@ -1,5 +1,6 @@
 from django.db import models
 from authentication.models import User
+from file.manager import InsuranceManager
 
 
 class File(models.Model):
@@ -32,6 +33,8 @@ class Insurance(models.Model):
     created_by = models.ForeignKey(User, on_delete=models.CASCADE, related_name='insurance_created_by')
     updated_at = models.DateTimeField(auto_now=True)
     updated_by = models.ForeignKey(User, on_delete=models.CASCADE, related_name='insurance_updated_by')
+    
+    objects = InsuranceManager()
 
     def __str__(self):
         return f"{self.year} - {self.product} - {self.clubbed_name}"
