@@ -1,19 +1,23 @@
 # Run Project
 
-- .env.dev, sqlite3 and frontend/.env is added for test only.@@
+This guide will help you set up and run the project. Make sure to follow each step carefully.
 
-username: admin
-password: admin
+## Configuration
 
-## Change
+- `.env.dev`, `sqlite3`, and `frontend/.env` files are included for testing purposes.
+- **Username:** `admin`
+- **Password:** `admin`
 
-Before running the project make changes in frontend/.env replace my ip With your system IP
+## Change Configuration
 
-## Linux
-To Run the code
-<code>sudo docker-compose up --build<code>
+Before running the project, you need to make changes to the configuration files:
 
+1. Open the `frontend/.env` file.
+2. Replace `my ip` with your system IP address.
 
+## Running the Project on Linux
 
+To build and run the project, use Docker Compose:
 
-
+```bash
+sudo docker-compose up --build
